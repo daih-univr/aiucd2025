@@ -1,0 +1,83 @@
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      
+      {{ site.footer_text }}
+      <br /><br />
+      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}.
+      {% if site.active_lang == 'it-it' %}
+        Ultimo Aggiornamento: {{ 'now' | date: '%d.%m.%Y' }}.<br />
+        {{ site.impressum_path_it }}
+      {% else %}
+        Last updated: {{ 'now' | date: '%B %d, %Y' }}.<br />
+        {{ site.impressum_path }}
+      {% endif %}     
+
+    </div>
+  </footer>
+{% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="container">
+      <div class="row" style="width:90%; margin:0 auto;">
+        <div class="col-md-4">
+          <a  href="https://www.dlls.univr.it/">
+            {% assign logo_univr_dills = "logo-univr-dills.png" | prepend: '/assets/img/' %}
+            <!-- {% capture sizes %}480px{% endcapture %} -->
+              {%
+                include figure.liquid loading="eager" height="100rem" width="auto" path=logo_univr_dills sizes=sizes alt="Logo University of Verona and Department of Foreign Languages and Literatures" cache_bust=true
+              %}
+          </a>
+        </div>
+        <div class="col-md-3">          
+          <a  href="https://www.anvur.it/en/activities/departments/">
+            {% assign logo_univr_dills = "logo-eccellenza_MUR_Colore.png" | prepend: '/assets/img/' %}
+            <!-- {% capture sizes %}480px{% endcapture %} -->
+              {%
+                include figure.liquid loading="eager" height="100rem" width="auto" path=logo_univr_dills sizes=sizes alt="Logo University of Verona Department of Excellence 2023-2027" cache_bust=true
+              %}
+          </a>
+        </div>
+        <div class="col-md-5">
+          <a  href="https://www.dlls.univr.it/">
+            {% assign logo_univr_dills = "logo-InclusiveHumanities_acolori_trasp.png" | prepend: '/assets/img/' %}
+            <!-- {% capture sizes %}480px{% endcapture %} -->
+              {%
+                include figure.liquid loading="eager" height="100rem" width="auto" max-width="100%" path=logo_univr_dills sizes=sizes alt="Logo Inclusive Humanities project" cache_bust=true
+              %}
+          </a>
+        </div>
+        <div class="col-md-5">
+          <a  href="https://www.daih.eu/">
+            {% assign logo_univr_dills = "daih_logo.png" | prepend: '/assets/img/' %}
+            <!-- {% capture sizes %}480px{% endcapture %} -->
+              {%
+                include figure.liquid loading="eager" height="100rem" width="auto" path=logo_univr_dills sizes=sizes alt="Logo Digital Arena for Inclusive Humanities (DAIH)" cache_bust=true
+              %}
+          </a>
+        </div>
+        <div class="col-md-7">
+          <a  href="https://aiucd.it/">
+            {% assign logo_univr_dills = "AIUCD_logo.png" | prepend: '/assets/img/' %}
+            <!-- {% capture sizes %}480px{% endcapture %} -->
+              {%
+                include figure.liquid loading="eager" height="100rem" width="auto" max-width="100%" path=logo_univr_dills sizes=sizes alt="Logo Associazione per l’Informatica Umanistica e la Cultura Digitale" cache_bust=true
+              %}
+          </a>
+        </div>        
+      </div>
+      <!-- {{ site.footer_text }} -->
+      <br />
+      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}.
+      {% if site.active_lang == 'it-it' %}
+        Ultimo Aggiornamento: {{ 'now' | date: '%d.%m.%Y' }}.<br />
+        {{ site.impressum_path_it }}
+      {% else %}
+        Last updated: {{ 'now' | date: '%B %d, %Y' }}.<br />
+        {{ site.impressum_path }}
+      {% endif %}       
+      <!-- {% if site.impressum_path %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+      {% endif %} -->
+    </div>
+  </footer>
+{% endif %}

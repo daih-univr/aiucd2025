@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    {% include figure.liquid loading="eager" path=page.img sizes="(min-width: 768px) 156px, 50vw" alt="keynote thumbnail" class="keynote-img" %}
+    <h1 class="post-title">{{ page.name }} {{ page.surname }}</h1>
+    <p class="post-description">{{ page.affiliation }}</p>
+    <h2>{{ page.title }}</h2> 
+  </header>
+
+  <article>
+    {{ content }}
+  </article>
+
+  {% if page.related_publications %}
+    <h2>{{ site.data[site.active_lang].strings.references }}</h2>
+    <div class="publications">
+      {% bibliography --cited_in_order %}
+    </div>
+  {% endif %}
+
+  {% if site.giscus and page.giscus_comments %}
+    {% include giscus.liquid %}
+  {% endif %}
+</div>
