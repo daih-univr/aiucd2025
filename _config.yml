@@ -21,8 +21,8 @@ baseurl: /aiucd2025 # the subpath of your site, e.g. /blog/. Leave blank for roo
 last_updated: true # set to true if you want to display last updated in the footer
 #impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 #impressum_path: <a href="https://www.univr.it/privacy/">Privacy Policy</a>. <a href="/accessibility-stmt/">Accessibility Statement</a>.
-impressum_path: No cookies are used on this web-site. <a href="https://www.univr.it/privacy/">Privacy Policy</a>. <a href="/credits/">Credits</a>. The site is <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">hosted on GitHub</a>.
-impressum_path_it: Questo sito non utilizza cookies.  <a href="https://www.univr.it/privacy/">Privacy Policy</a>. <a href="/credits/">Crediti</a>. Questo sito è <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">ospitato su GitHub</a>.
+impressum_path: No cookies are used on this web-site. <a href="https://www.univr.it/privacy/">Privacy Policy</a>. The site is <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">hosted on GitHub</a>. 
+impressum_path_it: Questo sito non utilizza cookies.  <a href="https://www.univr.it/privacy/">Privacy Policy</a>. Questo sito è <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">ospitato su GitHub</a>.
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------

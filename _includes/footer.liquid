@@ -69,10 +69,10 @@
       <br />
       &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}.
       {% if site.active_lang == 'it-it' %}
-        Ultimo Aggiornamento: {{ 'now' | date: '%d.%m.%Y' }}.<br />
+        <a href="/credits/">Crediti</a>. Ultimo Aggiornamento: {{ 'now' | date: '%d.%m.%Y' }}.<br />
         {{ site.impressum_path_it }}
       {% else %}
-        Last updated: {{ 'now' | date: '%B %d, %Y' }}.<br />
+        <a href="/credits/">Credits</a>. Last updated: {{ 'now' | date: '%B %d, %Y' }}.<br />
         {{ site.impressum_path }}
       {% endif %}       
       <!-- {% if site.impressum_path %}
