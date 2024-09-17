@@ -403,7 +403,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-gb", "it-it"]
+languages: ["it-it", "en-gb"]
 default_lang: "it-it"
 exclude_from_localization: ["assets"]
 lang_from_path: true
