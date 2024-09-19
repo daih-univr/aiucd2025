@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daih.github.io/aiucd2025/sitemap.xml
+Sitemap: https://aiucd2025.dlls.univr.it/sitemap.xml
