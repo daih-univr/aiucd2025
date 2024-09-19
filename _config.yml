@@ -15,9 +15,9 @@ bannerIT: AIUCD25_banner_IT.png
 bannerEN: AIUCD25_banner_EN.png
 
 
-#url: https://aiucd2025.dlls.univr.it # the base hostname & protocol for your site
-url: https://daih.github.io # the base hostname & protocol for your site
-baseurl: /aiucd2025 # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://aiucd2025.dlls.univr.it # the base hostname & protocol for your site
+#url: https://daih.github.io # the base hostname & protocol for your site
+#baseurl: /aiucd2025 # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 #impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 #impressum_path: <a href="https://www.univr.it/privacy/">Privacy Policy</a>. <a href="/accessibility-stmt/">Accessibility Statement</a>.

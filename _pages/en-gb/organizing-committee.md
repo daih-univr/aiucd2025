@@ -6,7 +6,7 @@ permalink: /organizing-committee/
 nav: false
 ---
 
-The 14th Annual Conference of the Association for Digital Humanities and Digital Culture (AIUCD) is organized by the [Digital Arena for Inclusive Humanities (DAIH)](https://daih.eu) of the [University of Verona](https://www.univr.it).
+The 14<sup>th</sup> Annual Conference of the Association for Digital Humanities and Digital Culture (AIUCD) is organized by the [Digital Arena for Inclusive Humanities (DAIH)](https://daih.eu) of the [University of Verona](https://www.univr.it).
 
 
 #### General Chairs
