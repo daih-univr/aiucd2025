@@ -3,21 +3,24 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-
-    {% if site.bannerIT or site.bannerEN %}
-    <div class="container80">
-          {% assign profile_image_path = site.bannerEN | prepend: 'assets/img/' %}
-          {% if site.active_lang == 'it-it' %}
-            {% assign profile_image_path = site.bannerIT | prepend: 'assets/img/' %}
-          {% endif %} 
-          {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30}}px, (min-width: 576px)
-      30vw, 95vw{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path sizes=sizes alt=site.main_title
-            cache_bust=true
-          %}
-    </div>
+    <h1>
+      {% if site.bannerIT or site.bannerEN %}
+      <div class="container80">
+            {% assign profile_image_path = site.bannerEN | prepend: 'assets/img/' %}
+            {% assign profile_image_alt = site.bannerENalt %}
+            {% if site.active_lang == 'it-it' %}
+              {% assign profile_image_path = site.bannerIT | prepend: 'assets/img/' %}
+              {% assign profile_image_alt = site.bannerITalt %}
+            {% endif %} 
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30}}px, (min-width: 576px)
+        30vw, 95vw{% endcapture %}
+            {%
+              include figure.liquid loading="eager" path=profile_image_path sizes=sizes alt=profile_image_alt
+              cache_bust=true
+            %}
+      </div>
+    </h1>
     {% endif %}
     <!-- <h1 class="post-title">
       {% if site.title == 'blank' %}

@@ -12,8 +12,9 @@ keywords: artificial intelligence, computer science, digital humanities, inclusi
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 logo: AIUCD25_logo.png
 bannerIT: AIUCD25_banner_IT.png
+bannerITalt: "Banner del XIV convegno annuale dell'Associazione per l'Informatica Umanistica e la Cultura Digitale (AIUCD). Contiene il logo e il titolo 'Diversità, Equità e Inclusione: Sfide e Opportunità per l'Informatica Umanistica nell'Era dell'Intelligenza Artificiale'"
 bannerEN: AIUCD25_banner_EN.png
-
+bannerENalt: "Banner of the 14th annual conference of the Association for Digital Humanities and Digital Culture (AIUCD). It contains the logo and the title 'Diversity, Equity, and Inclusion: Challenges and Opportunities for Digital Humanities in the Age of Artificial Intelligence.'"
 
 url: https://aiucd2025.dlls.univr.it # the base hostname & protocol for your site
 #url: https://daih.github.io # the base hostname & protocol for your site

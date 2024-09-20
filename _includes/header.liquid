@@ -67,10 +67,11 @@
                   {% endif %}
                 {% endfor %}
                 <li class="nav-item dropdown {% if page.title == p.title or has_active_child %}active{% endif %}">
+                  {% assign idnav = p.title | prepend: "navbarDropdown-" %}
                   <a
                     class="nav-link dropdown-toggle"
                     href="#"
-                    id="navbarDropdown"
+                    id={{ idnav }}
                     role="button"
                     data-toggle="dropdown"
                     aria-haspopup="true"
@@ -81,7 +82,7 @@
                       <span class="sr-only">(current)</span>
                     {% endif %}
                   </a>
-                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby={{ idnav }}>
                     {% for child in p.children %}
                       {% if child.title == 'divider' %}
                         <div class="dropdown-divider"></div>
@@ -129,17 +130,19 @@
               {% endif %}
               <li class="nav-item active">
                 {% if site.active_lang == site.default_lang %}
-                  <a class="nav-link" {% static_href -%} href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}" {%- endstatic_href %}>
+                  {% assign textAlt = other_language | upcase | prepend: "Website in " %}
+                  <a class="nav-link" aria-label="{{ textAlt }}" {% static_href -%} href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}" {%- endstatic_href %}>
                     {% if site.country_flag %}
-                      <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
+                      <span class="fi fi-{{ other_language | split: "-" | last }}" title="{{ textAlt }}"></span>
                     {% else %}
                       {{ other_language | upcase }}
                     {%- endif -%}
                   </a>
                 {% else %}
-                  <a class="nav-link" {% static_href -%} href="{{ site.baseurl }}{{ page.url }}" {%- endstatic_href %}>
+                  {% assign textAlt = site.default_lang | upcase | prepend: "Website in " %}
+                  <a class="nav-link" aria-label="{{ textAlt }}" {% static_href -%} href="{{ site.baseurl }}{{ page.url }}" {%- endstatic_href %}>
                     {% if site.country_flag %}
-                      <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
+                      <span class="fi fi-{{ site.default_lang | split: "-" | last }}" title="{{ textAlt }}"></span>
                     {% else %}
                       {{ site.default_lang | upcase }}
                     {%- endif -%}
@@ -148,17 +151,20 @@
               </li>
             {% else %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
+                  {% assign textAlt = site.active_lang | upcase | prepend: "Website in " %}
+                  {% assign idnav = p.title | prepend: 'navbarDropdown-' %}
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    id={{ idnav }}
+                    role="button"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                    aria-label="{{ textAlt }}" 
+                  >
                   {% if site.country_flag %}
-                    <span class="fi fi-{{ site.active_lang | split: "-" | last }}"></span>
+                    <span class="fi fi-{{ site.active_lang | split: "-" | last }}" title="{{ textAlt }}"></span>
                   {% else %}
                     {{- site.active_lang | upcase }}
                   {%- endif -%}
@@ -173,18 +179,19 @@
                       {% if language_set %}
                         <div class="dropdown-divider"></div>
                       {% endif %}
-                      {% if l == site.default_lang %}
-                        <a class="dropdown-item" {% static_href -%} href="{{ site.baseurl }}{{ page.url }}" {%- endstatic_href %}>
+                      {% assign textAlt = l | upcase | prepend: "Website in " %}
+                      {% if l == site.default_lang %}                        
+                        <a class="dropdown-item" aria-label="{{ textAlt }}" {% static_href -%} href="{{ site.baseurl }}{{ page.url }}" {%- endstatic_href %}>
                           {% if site.country_flag %}
-                            <span class="fi fi-{{ l | split: "-" | last }}"></span>
+                            <span class="fi fi-{{ l | split: "-" | last }}" title="{{ textAlt }}"></span>
                           {% else %}
                             {{ l | upcase }}
                           {%- endif -%}
                         </a>
                       {% else %}
-                        <a class="dropdown-item" {% static_href -%} href="{{ site.baseurl }}/{{ l }}{{ page.url }}" {%- endstatic_href %}>
+                        <a class="dropdown-item" aria-label="{{ textAlt }}" {% static_href -%} href="{{ site.baseurl }}/{{ l }}{{ page.url }}" {%- endstatic_href %}>
                           {% if site.country_flag %}
-                            <span class="fi fi-{{ l | split: "-" | last }}"></span>
+                            <span class="fi fi-{{ l | split: "-" | last }}" title="{{ textAlt }}"></span>
                           {% else %}
                             {{ l | upcase }}
                           {%- endif -%}
