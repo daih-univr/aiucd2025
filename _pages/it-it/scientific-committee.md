@@ -1,17 +1,19 @@
 ---
 page_id: scientific-committee
 layout: page
-title: Comitato di Scientifico
+title: Comitato Scientifico
 permalink: /scientific-committee/
 nav: false
 ---
+
+Il Comitato Scientifico del XIV convegno annuale dell’Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD) è costituito dai due Program Chair e dai dieci Chair delle cinque Track.
 
 #### Program Chairs
 ---
 * [Simone Rebora](https://www.dlls.univr.it/?ent=persona&id=19903&lang=en) - Università degli Studi di Verona
 * [Marco Rospocher](https://marcorospocher.com/) - Università degli Studi di Verona
 
-#### Track chairs
+#### Track Chairs
 ---
 
 ##### Digital Humanities e Inclusione
