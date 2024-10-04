@@ -6,12 +6,14 @@ permalink: /scientific-committee/
 nav: false
 ---
 
+The Scientific Committee of the 14th Annual Conference of the Association for Digital Humanities and Digital Culture (AIUCD) is composed of the two Program Chairs and the ten Chairs of the five Tracks.
+
 #### Program Chairs
 ---
 * [Simone Rebora](https://www.dlls.univr.it/?ent=persona&id=19903&lang=en) - Università degli Studi di Verona
 * [Marco Rospocher](https://marcorospocher.com/) - Università degli Studi di Verona
 
-#### Track chairs
+#### Track Chairs
 ---
 
 ##### Inclusive DH
@@ -33,7 +35,3 @@ nav: false
 ##### Preservation of memory and digital cultural heritage
 * [Monica Berti](https://www.monicaberti.com/) - Universität Leipzig
 * [Daria Spampinato](https://www.istc.cnr.it/it/people/daria-spampinato) - Istituto di Scienze e Tecnologie della Cognizione (CNR)
-
-#### Reviewers
----
-Coming soon!
