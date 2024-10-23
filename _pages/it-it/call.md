@@ -12,6 +12,8 @@ children:
     permalink: /call-for-papers/
   - title: Istruzioni per gli Autori
     permalink: /informations-for-authors/
+  - title: Invio contributi
+    permalink: /submission/    
   # - title: Premio Gigliozzi
   #   permalink: /gigliozzi-prize/    
 ---
