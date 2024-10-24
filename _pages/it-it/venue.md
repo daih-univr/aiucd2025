@@ -1,7 +1,7 @@
 ---
 page_id: venue
 layout: page
-title: Venue
+title: Sede
 permalink: /venue/
 nav: false
 ---
