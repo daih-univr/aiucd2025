@@ -20,7 +20,7 @@ Si accolgono proposte relative alle tematiche dell’inclusione nell’ambito de
 
 ### 2) Archivi ed edizioni digitali
 
-Si accolgono interventi di tipo metodologico e applicativo su: a) rappresentazione e organizzazione delle tecniche e criticità nel campo della digitalizzazione, dell’organizzazione del patrimonio nato digitalmente e delle modalità della sua archiviazione; b) temi, questioni, applicazioni inerenti alle edizioni scientiﬁche digitali, alle modalità di visualizzazione e interrogazione dei testi disponibili in rete nelle varie modalità di codifica.
+Si accolgono interventi di tipo metodologico e applicativo su: a) rappresentazione e organizzazione delle tecniche e criticità nel campo della digitalizzazione, dell’organizzazione del patrimonio nato digitalmente e delle modalità della sua archiviazione; b) temi, questioni, applicazioni inerenti alle edizioni scientifiche digitali, alle modalità di visualizzazione e interrogazione dei testi disponibili in rete nelle varie modalità di codifica.
 
 ### 3) Metodi computazionali
 
@@ -28,20 +28,20 @@ Si accolgono interventi che esplorino metodi e strumenti per l’analisi computa
 
 ### 4) Rappresentazione di dati e conoscenza
 
-Particolare attenzione sarà riservata alle riﬂessioni sull’organizzazione della conoscenza e sull’impiego di tecnologie del Semantic Web e dei Linked Open Data. Si accolgono proposte di progettazione di modelli concettuali, grafi di conoscenza, ontologie e tecnologie del Semantic Web per i Beni Culturali e le Digital Humanities, di creazione di dataset e applicazioni conformi ai principi FAIR, di produzione di Linked Open Data nei settori dei Beni Culturali e delle Digital Humanities, di estrazione automatica di metadati, entità e modelli da risorse del patrimonio culturale.
+Particolare attenzione sarà riservata alle riflessioni sull’organizzazione della conoscenza e sull’impiego di tecnologie del Semantic Web e dei Linked Open Data. Si accolgono proposte di progettazione di modelli concettuali, grafi di conoscenza, ontologie e tecnologie del Semantic Web per i Beni Culturali e le Digital Humanities, di creazione di dataset e applicazioni conformi ai principi FAIR, di produzione di Linked Open Data nei settori dei Beni Culturali e delle Digital Humanities, di estrazione automatica di metadati, entità e modelli da risorse del patrimonio culturale.
 
 ### 5) Preservazione della memoria e del patrimonio digitale
 
-Sono attesi interventi riguardanti la conservazione della memoria e del patrimonio culturale digitale, incluse speciﬁche riﬂessioni sulla preservazione degli esiti delle ricerche in Digital Humanities e dei progetti scientiﬁci digitali.  
+Sono attesi interventi riguardanti la conservazione della memoria e del patrimonio culturale digitale, incluse specifiche riflessioni sulla preservazione degli esiti delle ricerche in Digital Humanities e dei progetti scientifici digitali.  
 Sono incoraggiati anche interventi sulle criticità infrastrutturali e sui problemi di sostenibilità dei progetti legati alla digitalizzazione e alla conservazione di collezioni nate digitalmente, nonché proposte per la messa in atto di buone pratiche che garantiscano, oltre alla preservazione, anche l’accesso effettivo al patrimonio.
 
 ## Formato e modalità di invio delle proposte
 
 Il convegno prevede la partecipazione tramite intervento orale (paper) o poster.
 
-Nella fase di proposta si richiede alle autrici e agli autori di speciﬁcare in quale modalità intendono presentare l’articolo, se con una comunicazione orale o con un poster. A seguito della peer review, il Comitato Scientifico potrà decidere se il contributo accettato sia più adatto a una comunicazione orale o a una presentazione a mezzo poster. Si precisa che non c’è differenza di qualità tra i contributi assegnati all’una o all’altra modalità di presentazione: gli interventi orali sono di norma più adatti a riﬂessioni teoriche e metodologiche, anche connesse a esperienze sul campo; i poster, eventualmente affiancati da demo, sono particolarmente adatti alla descrizione di speciﬁci progetti, strumenti, risorse digitali.
+Nella fase di proposta si richiede alle autrici e agli autori di specificare in quale modalità intendono presentare l’articolo, se con una comunicazione orale o con un poster. A seguito della peer review, il Comitato Scientifico potrà decidere se il contributo accettato sia più adatto a una comunicazione orale o a una presentazione a mezzo poster. Si precisa che non c’è differenza di qualità tra i contributi assegnati all’una o all’altra modalità di presentazione: gli interventi orali sono di norma più adatti a riflessioni teoriche e metodologiche, anche connesse a esperienze sul campo; i poster, eventualmente affiancati da demo, sono particolarmente adatti alla descrizione di specifici progetti, strumenti, risorse digitali.
 
-Tutte le proposte devono essere inviate nella forma di contributo di un minimo di tre (3) pagine ﬁno a un massimo di cinque (5) pagine, bibliograﬁa esclusa.
+Tutte le proposte devono essere inviate nella forma di contributo di un minimo di tre (3) pagine fino a un massimo di cinque (5) pagine, bibliografia esclusa.
 
 Il formato di presentazione dei contributi deve attenersi al template (aggiornato rispetto agli anni precedenti) e alle indicazioni che si trovano nella pagina relativa alle **[Informazioni per gli Autori](/informations-for-authors/)**. Contributi che non si attengano al template e alle indicazioni saranno rifiutati senza entrare nel merito del contenuto.
 
@@ -62,7 +62,7 @@ Le proposte saranno valutate attraverso un processo di revisione "a doppio cieco
 - attinenza del contributo alle finalità della conferenza;
 - innovatività e rilevanza del contributo;
 - rigore metodologico;
-- analisi critica della letteratura sui temi trattati e bibliograﬁa pertinente e aggiornata;
+- analisi critica della letteratura sui temi trattati e bibliografia pertinente e aggiornata;
 - adeguatezza dell’impostazione teorica e concettuale rispetto al dominio di riferimento;
 - qualità dell’esposizione e adeguatezza dell’organizzazione del contributo;
 - atteggiamento critico verso le strategie adottate e gli strumenti in uso;
@@ -70,7 +70,7 @@ Le proposte saranno valutate attraverso un processo di revisione "a doppio cieco
 
 ## Pubblicazione degli atti
 
-Le proposte approvate in via deﬁnitiva saranno pubblicate, come **Conference Proceedings** con **DOI** e **ISBN**, liberamente consultabili dal sito del convegno e dal portale di «Umanistica Digitale» alla voce **[Book of Abstracts and Proceedings](https://umanisticadigitale.unibo.it/pages/boa)**.
+Le proposte approvate in via definitiva saranno pubblicate, come **Conference Proceedings** con **DOI** e **ISBN**, liberamente consultabili dal sito del convegno e dal portale di «Umanistica Digitale» alla voce **[Book of Abstracts and Proceedings](https://umanisticadigitale.unibo.it/pages/boa)**.
 
 ## Premio "Giuseppe Gigliozzi"
 
@@ -80,7 +80,7 @@ Le modalità di partecipazione saranno pubblicate **[sulla pagina dedicata](http
 
 ## Scadenze
 
-La scadenza per la presentazione delle proposte è ﬁssata per le ore 23:59 del 12 gennaio 2025 (CET/GMT+1).
+La scadenza per la presentazione delle proposte è fissata per le ore 23:59 del 12 gennaio 2025 (CET/GMT+1).
 
 Informazioni sull’accettazione verranno comunicate agli autori entro il 7 marzo 2025.
 

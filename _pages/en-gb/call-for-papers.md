@@ -38,7 +38,7 @@ We welcome proposals concerning memory and digital cultural heritage preservatio
 
 The conference envisages participation by oral communication (paper) or poster.
 
-At the proposal stage, authors are asked to speciﬁfy in which mode they intend to present the paper, whether by oral or poster communication. Following peer review, the Scientific Committee may decide whether the accepted contribution is more suitable for an oral communication or a poster presentation. It should be noted that there is no difference in quality between contributions assigned to one or the other mode of presentation: oral presentations are generally more appropriate for theoretical and methodological work, including that relating to actual applications; posters, optionally presented with a demo, are better suited to the description of projects, tools or digital resources.
+At the proposal stage, authors are asked to specifify in which mode they intend to present the paper, whether by oral or poster communication. Following peer review, the Scientific Committee may decide whether the accepted contribution is more suitable for an oral communication or a poster presentation. It should be noted that there is no difference in quality between contributions assigned to one or the other mode of presentation: oral presentations are generally more appropriate for theoretical and methodological work, including that relating to actual applications; posters, optionally presented with a demo, are better suited to the description of projects, tools or digital resources.
 
 All proposals must be submitted in the form of a contribution of a minimum of three (3) and a maximum of five (5) pages, excluding bibliography.
 
@@ -79,7 +79,7 @@ The terms of participation will be posted **[on the dedicated page](https://www.
 
 ## Deadlines
 
-The deadline for submission of proposals is ﬁxed for 11:59 p.m. on January 12, 2025 (CET/GMT+1).
+The deadline for submission of proposals is fixed for 11:59 p.m. on January 12, 2025 (CET/GMT+1).
 
 Acceptance notifications will be sent out to the authors by March 7, 2025.
 
