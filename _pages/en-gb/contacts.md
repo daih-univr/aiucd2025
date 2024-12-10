@@ -1,7 +1,7 @@
 ---
 page_id: contacts
 layout: page
-title: Contatti
+title: Contacts
 permalink: /contacts/
 nav: true
 nav_order: 6

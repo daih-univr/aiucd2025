@@ -13,7 +13,5 @@ children:
   - title: Author Instructions
     permalink: /informations-for-authors/
   - title: Submission
-    permalink: /submission/        
-  # - title: Gigliozzi prize
-  #   permalink: /gigliozzi-prize/    
+    permalink: /submission/          
 ---

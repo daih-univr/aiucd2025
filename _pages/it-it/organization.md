@@ -10,4 +10,6 @@ children:
     permalink: /organizing-committee/
   - title: Comitato Scientifico
     permalink: /scientific-committee/
+  - title: Comitato di Programma
+    permalink: /programme-committee/      
 ---
