@@ -2,7 +2,7 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-lg {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      <div style="padding-top: 15px; min-width: 75px">
+      <div style="padding-top: 15px; width: 75px">
         <a href="{{ '/' | relative_url }}" class="{% if page.title == 'Home' %}active{% endif %}">
         {% assign logo_image_path = site.logo | prepend: '/assets/img/' %}
         {% capture sizes %}(min-width: {{site.max_width}}) 75px, (min-width: 576px) 75px, 75px{% endcapture %}
