@@ -47,7 +47,7 @@ Il formato di presentazione dei contributi deve attenersi al template (aggiornat
 
 Non sono tollerati né il plagio né l'auto-plagio. Si ricorda che uno strumento di controllo del plagio potrà essere applicato ai contributi inviati. L’utilizzo di Large Language Model (LLM), come ChatGPT, non è consentito a meno che il testo generato non sia presentato come parte dell'analisi sperimentale, o che l’IA generativa sia stata utilizzata solo per la modifica e perfezionamento del lavoro degli autori. Tutti gli utilizzi dovranno comunque essere esplicitamente dichiarati nel contributo inviato.
 
-I contributi devono essere inviati, esclusivamente in formato PDF, usando la **piattaforma che sarà messa a disposizione [sul sito del convegno](/submission/) il 12 dicembre 2024**.
+I contributi devono essere inviati, esclusivamente in formato PDF, usando **[la piattaforma dedicata](/submission/)**.
 
 Il contributo deve essere anonimizzato togliendo i nomi degli autori e i riferimenti interni, nei limiti del possibile, senza che ciò impedisca una valutazione accurata della proposta da parte dei revisori.
 

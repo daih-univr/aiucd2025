@@ -46,7 +46,7 @@ The submission format for contributions must adhere to the template (updated fro
 
 Neither plagiarism nor self-plagiarism is tolerated. Please note that a plagiarism checking tool may be applied to submitted contributions. The use of Large Language Models (LLMs), such as ChatGPT, is not permitted unless the generated text is submitted as part of the experimental analysis, or the generative AI tool was used only for editing and refinement of the authors’ work. However, all uses must be explicitly stated in the submitted contribution.
 
-Contributions must be submitted, in PDF format only, using the **platform that will be made available [on the conference website](/submission/) on December 12, 2024**.
+Contributions must be submitted, in PDF format only, using **[the dedicated platform](/submission/)**.
 
 Proposals must be anonymised. Author names and any internal references should be removed to the extent possible so as to not compromise reviewers’ assessment of the proposal.
 
