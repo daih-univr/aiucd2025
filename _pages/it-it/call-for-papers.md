@@ -76,7 +76,7 @@ Le proposte approvate in via definitiva saranno pubblicate, come **Conference Pr
 
 AIUCD offre due premi di 300 euro ciascuno per giovani studiose e studiosi non strutturati (studenti/esse, dottorandi/e, borsisti/e, assegnisti/e) che presentino proposte accettate alla conferenza: un premio è dedicato ai poster e uno ai paper.
 
-Le modalità di partecipazione saranno pubblicate **[sulla pagina dedicata](https://www.aiucd.it/premio-gigliozzi/)** del sito dell’Associazione.
+Le modalità di partecipazione sono pubblicate **[sulla pagina dedicata](https://www.aiucd.it/premio-gigliozzi/)** del sito dell’Associazione.
 
 ## Scadenze
 

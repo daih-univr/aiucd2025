@@ -75,7 +75,7 @@ Accepted proposals will be published as **Conference Proceedings** with **DOI** 
 
 AIUCD awards two prizes of 300 euros each, one for posters and one for presentations, to early career scholars (students, doctoral students, scholarship or grant holders) presenting at the conference.
 
-The terms of participation will be posted **[on the dedicated page](https://www.aiucd.it/premio-gigliozzi/)** of the Association’s website.
+The terms of participation are described **[on the dedicated page](https://www.aiucd.it/premio-gigliozzi/)** of the Association’s website.
 
 ## Deadlines
 
