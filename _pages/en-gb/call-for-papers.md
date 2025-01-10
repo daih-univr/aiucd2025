@@ -79,8 +79,8 @@ The terms of participation are described **[on the dedicated page](https://www.a
 
 ## Deadlines
 
-The deadline for submission of proposals is fixed for 11:59 p.m. on January 12, 2025 (CET/GMT+1).
+The deadline for submission of proposals is fixed for 11:59 p.m. on ~~January 12, 2025~~  January 26, 2025 (CET/GMT+1) [**FINAL EXTENSION**].
 
-Acceptance notifications will be sent out to the authors by March 7, 2025.
+Acceptance notifications will be sent out to the authors by March 21, 2025.
 
-A camera-ready copy of the proposal must be submitted no later than March 28, 2025.
+A camera-ready copy of the proposal must be submitted no later than April 11, 2025.

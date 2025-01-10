@@ -80,8 +80,8 @@ Le modalità di partecipazione sono pubblicate **[sulla pagina dedicata](https:/
 
 ## Scadenze
 
-La scadenza per la presentazione delle proposte è fissata per le ore 23:59 del 12 gennaio 2025 (CET/GMT+1).
+La scadenza per la presentazione delle proposte è fissata per le ore 23:59 del ~~12 gennaio 2025~~ 26 gennaio 2025 (CET/GMT+1) [**PROROGA FINALE**].
 
-Informazioni sull’accettazione verranno comunicate agli autori entro il 7 marzo 2025.
+Informazioni sull’accettazione verranno comunicate agli autori entro il 21 marzo 2025.
 
-La versione _camera ready_ deve essere inviata entro il 28 marzo 2025.
+La versione _camera ready_ deve essere inviata entro l'11 aprile 2025.
