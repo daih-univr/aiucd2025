@@ -25,3 +25,5 @@ The downloadable package includes the following files:
 It is the authors' responsibility to ensure that the proposal is formatted according to the provided template. Proposals that do not follow the template will be rejected without review. The organizers will not perform any post-editing to adapt submissions to the conference template.
 
 When saving or exporting the document to PDF, please ensure that you enable the options to generate an accessible PDF in your word processing software (e.g., [Microsoft Word](https://support.microsoft.com/en-us/office/create-accessible-pdfs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed), [LibreOffice](https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files)).
+
+For any questions or clarifications regarding the use of the template, please contact the [Proceedings Chair](https://www.dlls.univr.it/?ent=persona&id=21234) of the conference.

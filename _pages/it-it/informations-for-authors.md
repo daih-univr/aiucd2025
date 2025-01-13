@@ -26,3 +26,4 @@ Nel pacchetto scaricabile troverete i seguenti file:
 
 Nel salvataggio o l’esportazione del documento in PDF, verificare di aver attivato le opzioni per generare un PDF accessibile nel software di videoscrittura scelto (e.g., [Microsoft Word](https://support.microsoft.com/en-us/office/create-accessible-pdfs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed), [LibreOffice](https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files)).
 
+Per eventuali dubbi o richieste di chiarimento sull’utilizzo del template, si invita a contattare il [Proceedings Chair](https://www.dlls.univr.it/?ent=persona&id=21234) della conferenza.
