@@ -27,3 +27,13 @@ Nel pacchetto scaricabile troverete i seguenti file:
 Nel salvataggio o l’esportazione del documento in PDF, verificare di aver attivato le opzioni per generare un PDF accessibile nel software di videoscrittura scelto (e.g., [Microsoft Word](https://support.microsoft.com/en-us/office/create-accessible-pdfs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed), [LibreOffice](https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files)).
 
 Per eventuali dubbi o richieste di chiarimento sull’utilizzo del template, si invita a contattare il [Proceedings Chair](https://www.dlls.univr.it/?ent=persona&id=21234) della conferenza.
+
+## Elementi importanti da verificare prima dell'invio del PDF della proposta
+
+* **Conformità al Template**: Le proposte che non seguono il template qui sopra saranno rifiutate senza revisione.
+* **Formattazione**: Seguire tutti gli stili di formattazione per ciascuna sezione, assicurandosi che spazi e interruzioni di linea rispettino il template.
+* **Secondo Titolo**: Assicurarsi di includere il secondo titolo corrispondente all'abstract nella seconda lingua (struttura: titolo in corsivo, seguito dall'abstract su una nuova riga e poi dalle parole chiave su un'altra nuova riga).
+* **Allineamento dei Paragrafi**: Tutti i paragrafi devono essere allineati a sinistra (non utilizzare la giustificazione completa).
+* **Riferimenti**: Fornire dettagli completi per ogni riferimento nella sezione Bibliografia. Non utilizzare scorciatoie (ad esempio, trattini) per evitare di ripetere i nomi degli autori citati più volte.
+* **Lunghezza**: La lunghezza della proposta non deve superare le 5 pagine (esclusa la bibliografia). Dalla sesta pagina in poi sono ammessi solo riferimenti bibliografici.
+* **Revisione a Doppio Cieco**: Il processo di revisione è a doppio cieco. Non includere i nomi degli autori sotto il titolo né informazioni che possano identificarli (ad esempio, nei ringraziamenti o in altre sezioni). I dettagli degli autori saranno aggiunti successivamente nella versione camera-ready, in caso di accettazione.

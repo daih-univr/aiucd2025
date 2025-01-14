@@ -27,3 +27,13 @@ It is the authors' responsibility to ensure that the proposal is formatted accor
 When saving or exporting the document to PDF, please ensure that you enable the options to generate an accessible PDF in your word processing software (e.g., [Microsoft Word](https://support.microsoft.com/en-us/office/create-accessible-pdfs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed), [LibreOffice](https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files)).
 
 For any questions or clarifications regarding the use of the template, please contact the [Proceedings Chair](https://www.dlls.univr.it/?ent=persona&id=21234) of the conference.
+
+## Important aspects to consider before submitting the PDF proposal
+
+* **Template Compliance**: Proposals that do not follow the above template will be rejected without review.
+* **Formatting**: Follow all formatting styles for each section, ensuring that spaces and line breaks match the template.
+* **Second Title**: Ensure the inclusion of the second title corresponding to the abstract in the second language (structure: title in italics, followed by the abstract on a new line, and then the keywords on another new line).
+* **Paragraph Alignment**: All paragraphs must be left-aligned (do not use full justification).
+* **References**: Provide complete details for each reference in the References section. Do not use shortcuts (e.g., dashes) to avoid repeating the names of authors cited multiple times.
+* **Length**: The proposal’s length must not exceed 5 pages (excluding references). Content beyond page 5 should only include bibliographic references.
+* **Double-Blind Review**: The review process is double-blinded. Do not include the authors’ names under the title or any identifying information (e.g., in acknowledgments or other sections). Authors' details will be added later on in the camere ready version, in case of acceptance.
