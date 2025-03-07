@@ -6,8 +6,8 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
-  # - title: Registration
-  #   permalink: /registration/
+  - title: Registration
+    permalink: /registration/
   - title: Venue
     permalink: /venue/
   # - title: Travel and accomodation
