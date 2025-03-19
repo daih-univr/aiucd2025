@@ -30,7 +30,7 @@ The Scientific Committee of the 14<sup>th</sup> Annual Conference of the Associa
 
 #### Data and Knowledge Representation
 * [Francesco Mambrini](https://docenti.unicatt.it/ppd2/en/docenti/34146/francesco-mambrini/profilo) - Università Cattolica del Sacro Cuore
-* [Elena Spadini](https://elespdn.github.io/io/) - Universität Basel
+* [Elena Spadini](https://elespdn.github.io/io/) - Universität Bern
 
 #### Preservation of memory and digital cultural heritage
 * [Monica Berti](https://www.monicaberti.com/) - Universität Leipzig

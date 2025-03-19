@@ -30,7 +30,7 @@ Il Comitato Scientifico del XIV convegno annuale dell’Associazione per l’Inf
 
 #### Rappresentazione di Dati e Conoscenza 
 * [Francesco Mambrini](https://docenti.unicatt.it/ppd2/en/docenti/34146/francesco-mambrini/profilo) - Università Cattolica del Sacro Cuore
-* [Elena Spadini](https://elespdn.github.io/io/) - Universität Basel
+* [Elena Spadini](https://elespdn.github.io/io/) - Universität Bern
 
 #### Preservazione della Memoria e del Patrimonio Digitale
 * [Monica Berti](https://www.monicaberti.com/) - Universität Leipzig
