@@ -6,7 +6,7 @@ permalink: /venue/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/santamarta.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/santamarta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Photo of the main building of the site of Santa Marta."%}
 
 The conference is organized by the [Digital Arena for Inclusive Humanities (DAIH)](https://www.daih.eu) of the [University of Verona](https://www.univr.it).
 

@@ -6,7 +6,7 @@ permalink: /venue/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/santamarta.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/santamarta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Foto dell'edificio principale del complesso di Santa Marta." %}
 
 La conferenza è organizzata dalla [Digital Arena for Inclusive Humanities (DAIH)](https://www.daih.eu) dell’[Università di Verona](https://www.univr.it).
 
