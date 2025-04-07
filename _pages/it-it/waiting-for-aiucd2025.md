@@ -22,4 +22,5 @@ Gli incontri di quest’anno, organizzati in collaborazione con i "[Digital Spri
 Tutti gli incontri si svolgeranno **dalle 17.00 alle 19.00** sulla piattaforma **Zoom** (il link sarà inviato agli iscritti prima di ogni incontro) e sarà fornito un attestato di partecipazione su richiesta.
 
 **Per iscriversi**, compilare il seguente form: [https://forms.office.com/e/7Wg9UKZdzC](https://forms.office.com/e/7Wg9UKZdzC)  
-**Per ulteriori informazioni**: [aspettando@aiucd.it](mailto:aspettando@aiucd.it)
+**Per ulteriori informazioni**: [aspettando@aiucd.it](mailto:aspettando@aiucd.it)  
+**[Locandina](/assets/pdf/waiting-for-aiucd2025.pdf)**

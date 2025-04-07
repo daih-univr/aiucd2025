@@ -22,4 +22,5 @@ This year's meetings, organized in collaboration with the "[Digital Spritz](http
 All meetings will take place **from 5–7 p.m.** on the **Zoom platform** (link will be sent to registered participants before each meeting), and a **certificate of attendance** will be provided upon request.
 
 **To register**, please fill out the following form: [https://forms.office.com/e/7Wg9UKZdzC](https://forms.office.com/e/7Wg9UKZdzC)  
-**For more information**: [aspettando@aiucd.it](mailto:aspettando@aiucd.it)
+**For more information**: [aspettando@aiucd.it](mailto:aspettando@aiucd.it)  
+**[Poster](/assets/pdf/waiting-for-aiucd2025.pdf)**
