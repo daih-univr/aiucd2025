@@ -83,6 +83,14 @@ table {
   }
 }
 
+.embeddedmap {
+  width: 100%;
+  aspect-ratio: 16 / 6;
+  border: 1px solid black;
+  display: block; /* Ensures it behaves as a block element */
+  margin: 0 auto; /* Centers the iframe horizontally */
+  border-radius: 8px; /* Matches the "rounded" class */
+}
 
 a,
 table.table a {
@@ -218,10 +226,13 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
+  max-width: 315px;
+  min-width: 315px;
+  
   .card-img {
     width: 100%;
     // padding-top: 1.25rem;
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 1.25rem 1.25rem 0.25rem 1.25rem;
   }
 
   .card-title {
@@ -230,8 +241,9 @@ ul.task-list input[type="checkbox"] {
 
   .card-body {
     
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.25rem 1.25rem 1.25rem 1.25rem;
   }
+
 }
 
 // Citation
@@ -272,8 +284,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card {
-    max-width: 400px;
-    min-width: 400px;
+    max-width: 315px;
+    min-width: 315px;
   }
 
   .profile {
@@ -694,6 +706,7 @@ footer.sticky-bottom {
     text-decoration: none;
   }
 }
+
 
 // Projects
 

@@ -1,36 +1,22 @@
-<div class="grid-sizer"></div>
 <div class="grid-item">
   <a href="{% if keynote.redirect %}{{ keynote.redirect }}{% else %}{{ keynote.url | relative_url }}{% endif %}">
     <div class="card hoverable">
       {% if keynote.img %}
       <div class="card-img">
+        {% assign alt_text = "Photo of " | append: keynote.name %}
         {%
           include figure.liquid
           loading="eager"
           path=keynote.img
           sizes = "250px"
-          alt="Photo of the keynote speaker"
+          alt=alt_text
         %}
       </div>  
       {% endif %}
       <div class="card-body">
         <h4 class="card-title">{{ keynote.name }} {{ keynote.surname }}</h4>
+        <p class="card-text">{{ keynote.affiliation }}</p>
         <p class="card-text">{{ keynote.title }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if keynote.github %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ keynote.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-              {% if keynote.github_stars %}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fa-solid fa-star"></i>
-                  <span id="{{ keynote.github_stars }}-stars"></span>
-                </span>
-              {% endif %}
-            </div>
-          {% endif %}
-        </div>
       </div>
     </div>
   </a>

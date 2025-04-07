@@ -3,7 +3,11 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    {% include figure.liquid loading="eager" path=page.img sizes="(min-width: 768px) 156px, 50vw" alt="keynote thumbnail" class="keynote-img" %}
+        {% if page.img %}
+      <div class="card-img col-md-4">
+        {% include figure.liquid loading="eager" path=page.img sizes="(min-width: 768px) 156px, 50vw" alt=page.imgalt %}
+      </div>
+    {% endif %}
     <h1 class="post-title">{{ page.name }} {{ page.surname }}</h1>
     <p class="post-description">{{ page.affiliation }}</p>
     <h2>{{ page.title }}</h2> 
