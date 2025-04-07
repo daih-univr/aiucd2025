@@ -1,7 +1,7 @@
 ---
 id: program
 layout: page
-title: Programma
+title: Programme
 nav: true
 nav_order: 3
 dropdown: true

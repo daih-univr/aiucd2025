@@ -6,4 +6,4 @@ permalink: /detailed-schedule/
 nav: false
 ---
 
-The program will be finalized once all contributions and author registrations have been received, approximately at the beginning of May.
+The programme will be finalized once all contributions and author registrations have been received, approximately at the beginning of May.
