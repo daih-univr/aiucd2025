@@ -6,9 +6,9 @@ permalink: /venue/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/santa-marta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="immagine raffigurante l'edificio principale del Polo Santa Marta"%}
+{% include figure.liquid loading="eager" path="assets/img/santa-marta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Photo of the main building of the Santa Marta University Campus"%}
 
-The conference is organized by the [Digital Arena for Inclusive Humanities (DAIH)](https://www.daih.eu), at the [University of Verona](https://www.univr.it).
+The conference is organized by the [Digital Arena for Inclusive Humanities (DAIH)](https://www.daih.eu) at the [University of Verona](https://www.univr.it).
 
 All the scientific activities and meetings will take place at [Polo Santa Marta](https://www.univr.it/it/santa-marta) ([Via Cantarane, 24](https://www.openstreetmap.org/directions?from=&to=45.438518%2C11.011468)) of the University of Verona.
 
@@ -22,7 +22,7 @@ The main building, known as the *Provianda*, has reached us with very few altera
 
 ## Conference Spaces
 
-The conference sessions will be held in the *Silos di Ponente* building, in the following lecutre rooms:  *Aula Magna*, *Aula SPA*, *Aula SPB*. Coffee breaks, lunches and poster session will take place in the main building, *Provianda*.
+The conference sessions will be held in the *Silos di Ponente* building, in the following lecture rooms:  *Aula Magna*, *Aula SPA*, *Aula SPB*. Coffee breaks, lunches, and poster session will take place in the main building, *Provianda*.
 
 {% include figure.liquid loading="eager" path="assets/img/marked-map.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="indicazione dettagliata degli edifici e aule del convegno" width="70%" %}
 

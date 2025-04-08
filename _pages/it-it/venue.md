@@ -6,7 +6,7 @@ permalink: /venue/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/santa-marta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="immagine raffigurante l'edificio principale del Polo Santa Marta"%}
+{% include figure.liquid loading="eager" path="assets/img/santa-marta.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Fotografia dell'edificio principale del Polo Santa Marta."%}
 
 La conferenza è organizzata da [Digital Arena for Inclusive Humanities (DAIH)](https://www.daih.eu) dell'[Università di Verona](https://www.univr.it).
 

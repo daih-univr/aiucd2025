@@ -6,7 +6,7 @@ permalink: /city-of-verona/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/ponte-pietra.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="immagine che raffigura Ponte Pietra, storico della città di Verona"%}
+{% include figure.liquid loading="eager" path="assets/img/ponte-pietra.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt=" Ponte Pietra, a historic bridge in the city of Verona."%}
 
 Verona, nestled in the heart of the Veneto Region, sets itself as a stage of history and culture, where the memory of the past echoes through the streets and squares. Among its architectural jewels, Ponte Pietra stands out, the oldest bridge in the city, built by the Romans in the first century BC, a witness to the great engineering of the time. Crossing the Adige with its elegant arch structure, it connects the city centre with San Pietro's Hill.
 

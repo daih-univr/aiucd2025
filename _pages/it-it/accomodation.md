@@ -1,12 +1,12 @@
 ---
-page_id: Accomodation
+page_id: Accommodation
 layout: page
 title: Dove Alloggiare
-permalink: /accomodation/
+permalink: /accommodation/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/panoramica-vr.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Immagine panoramica della città di Verona, fotografata da Castel San Pietro"%}
+{% include figure.liquid loading="eager" path="assets/img/panoramica-vr.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Vista panoramica della città di Verona, fotografata da Castel San Pietro"%}
 
 La città di Verona, con il suo inestimabile patrimonio storico e culturale, è una delle mete turistiche più affascinanti d'Italia. Ogni anno accoglie visitatori da tutto il mondo, offrendo un'ampia gamma di soluzioni di ospitalità per soddisfare ogni esigenza e preferenza.
 

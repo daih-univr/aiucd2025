@@ -6,7 +6,7 @@ permalink: /city-of-verona/
 nav: false
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/ponte-pietra.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="immagine che raffigura Ponte Pietra, storico della città di Verona"%}
+{% include figure.liquid loading="eager" path="assets/img/ponte-pietra.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Veduta di Ponte Pietra, storico ponte della città di Verona"%}
 
 Verona, incastonata nel cuore del Veneto, si presenta come un palcoscenico di storia e cultura, dove l'eco del passato risuona tra le vie e le piazze. Tra i suoi gioielli architettonici spicca Ponte Pietra, il ponte più antico della città, costruito dai Romani nel I secolo a.C. e ancora oggi testimone della grande ingegneria dell'epoca. Attraversando l'Adige con la sua elegante struttura ad archi, connette il centro della città con la collina di San Pietro.
 
