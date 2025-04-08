@@ -10,8 +10,10 @@ children:
      permalink: /registration/
    - title: Sede
      permalink: /venue/
-  # - title: Viaggio e Alloggi
-  #   permalink: /logistics/
-  # - title: Codice di Condotta
-  #   permalink: /code-of-conduct/        
+   - title: Come Arrivare
+     permalink: /getting-here/
+   - title: Dove Alloggiare
+     permalink: /accomodation/    
+   - title: Città di Verona
+     permalink: /city-of-verona/         
 ---

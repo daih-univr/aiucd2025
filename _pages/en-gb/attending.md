@@ -10,8 +10,11 @@ children:
     permalink: /registration/
   - title: Venue
     permalink: /venue/
-  # - title: Travel and accomodation
-  #   permalink: /logistics/
-  # - title: Code of Conduct
-  #   permalink: /code-of-conduct/        
+    permalink: /venue/
+  - title: Getting Here
+    permalink: /getting-here/
+  - title: Accomodation
+    permalink: /accomodation/    
+  - title: City of Verona
+    permalink: /city-of-verona/      
 ---
