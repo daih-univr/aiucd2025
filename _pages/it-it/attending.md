@@ -13,7 +13,7 @@ children:
    - title: Come Arrivare
      permalink: /getting-here/
    - title: Dove Alloggiare
-     permalink: /accomodation/    
+     permalink: /accommodation/    
    - title: Città di Verona
      permalink: /city-of-verona/         
 ---

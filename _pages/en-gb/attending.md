@@ -13,8 +13,8 @@ children:
     permalink: /venue/
   - title: Getting Here
     permalink: /getting-here/
-  - title: Accomodation
-    permalink: /accomodation/    
+  - title: Accommodation
+    permalink: /accommodation/    
   - title: City of Verona
     permalink: /city-of-verona/      
 ---
