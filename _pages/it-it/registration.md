@@ -26,3 +26,7 @@ Per completare l'iscrizione, visitare la [pagina di registrazione](https://www.a
 ## Studentesse e studenti dell'Università di Verona
 
 Le studentesse e gli studenti (dottorande e dottorandi inclusi) dell'Università di Verona hanno diritto all'**iscrizione gratuita al convegno** e **non è richiesta l'iscrizione ad AIUCD**. Per registrarsi, è necessario compilare il modulo dedicato disponibile sulla [pagina di registrazione](https://www.aiucd.it/aiucd2025-iscrizione-a-associazione-e-convegno/).
+
+## Docenti della scuola secondaria
+
+Il Convegno è accreditato per i docenti della scuola secondaria, che possono iscriversi tramite la **piattaforma SOFIA** (ID 98647).

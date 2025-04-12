@@ -27,3 +27,7 @@ To complete your registration, please visit the [registration page](https://www.
 ## Students and PhD Candidates of the University of Verona
 
 Students and PhD candidates of the University of Verona are eligible for **FREE conference registration** and **do not require AIUCD membership**. To register, please fill out the dedicated form available on the [registration page](https://www.aiucd.it/aiucd2025-registration-to-both-association-and-conference/).
+
+## Secondary School Teachers
+
+The Conference is accredited for secondary school teachers, who can register through the **SOFIA Platform** (ID 98647).
