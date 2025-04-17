@@ -6,14 +6,7 @@ permalink: /registration/
 nav: false
 ---
 
-
-## Mandatory AIUCD Membership
-
-Participation in the conference is **reserved for members** of the Association for Digital Humanities and Digital Culture (AIUCD).
-
-## AIUCD 2025 Conference Registration
-
-If you are **already a member of AIUCD for 2025**, you will receive specific instructions on how to register for the conference via a dedicated email.
+Participation in the conference is **reserved for members** of the Association for Digital Humanities and Digital Culture (AIUCD). If you are **already a member of AIUCD for 2025**, you received specific instructions on how to register for the conference via a dedicated email.
 
 For **new members**, the registration fees are as follows:
 

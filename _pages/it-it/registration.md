@@ -6,13 +6,7 @@ permalink: /registration/
 nav: false
 ---
 
-## Iscrizione obbligatoria ad AIUCD
-
-La partecipazione al convegno è **riservata ai membri** dell'Associazione per l'Informatica Umanistica e la Cultura Digitale (AIUCD).
-
-## Iscrizione al Convegno AIUCD 2025
-
-Coloro che sono **già socie e soci di AIUCD per l'anno 2025**, riceveranno istruzioni specifiche su come completare l'iscrizione al convegno tramite un'email dedicata.
+La partecipazione al convegno è **riservata ai membri** dell'Associazione per l'Informatica Umanistica e la Cultura Digitale (AIUCD). Coloro che sono **già socie e soci di AIUCD per l'anno 2025**, hanno ricevuto istruzioni specifiche su come completare l'iscrizione al convegno tramite un'email dedicata.
 
 Per **le nuove socie e i nuovi soci**, le quote di iscrizione sono le seguenti:
 
