@@ -30,4 +30,4 @@ Le studentesse e gli studenti (dottorande e dottorandi inclusi) dell'Università
 ## Docenti della scuola secondaria
 
 Il Convegno è accreditato come iniziativa di formazione per i docenti della scuola secondaria attraverso **la piattaforma ministeriale S.O.F.I.A.**  
-I docenti interessati a partecipare in questa modalità dovranno iscriversi al convegno seguendo il [normale iter previsto per la partecipazione](https://aiucd2025.dlls.univr.it/registration/). Sarà inoltre necessario iscriversi tassativamente anche tramite la piattaforma S.O.F.I.A. (ID del corso: 98647), al fine di poter ottenere il certificato che attesti la frequenza all’iniziativa.
+I docenti interessati a partecipare in questa modalità dovranno iscriversi al convegno seguendo il [normale iter previsto per la partecipazione](https://www.aiucd.it/aiucd2025-iscrizione-a-associazione-e-convegno/). Sarà inoltre necessario iscriversi tassativamente anche tramite la piattaforma S.O.F.I.A. (ID del corso: 98647), al fine di poter ottenere il certificato che attesti la frequenza all’iniziativa.

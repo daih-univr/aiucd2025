@@ -31,4 +31,4 @@ Students and PhD candidates of the University of Verona are eligible for **FREE 
 ## Secondary School Teachers
 
 The conference is accredited as a training initiative for secondary school teachers through **the ministerial platform S.O.F.I.A.**  
-Teachers interested in participating in this modality will have to register for the conference by following the [normal procedure](https://aiucd2025.dlls.univr.it/registration/). It will also be necessary to register through the S.O.F.I.A. platform (Course ID: 98647), in order to be able to obtain the certificate of attendance.
+Teachers interested in participating in this modality will have to register for the conference by following the [normal procedure](https://www.aiucd.it/aiucd2025-registration-to-both-association-and-conference/). It will also be necessary to register through the S.O.F.I.A. platform (Course ID: 98647), in order to be able to obtain the certificate of attendance.
