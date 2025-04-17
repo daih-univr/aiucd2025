@@ -232,17 +232,40 @@ ul.task-list input[type="checkbox"] {
   .card-img {
     width: 100%;
     // padding-top: 1.25rem;
-    padding: 1.25rem 1.25rem 0.25rem 1.25rem;
+    padding: 1.25rem 1.25rem 0rem 1.25rem;
   }
 
-  .card-title {
-    color: var(--global-text-color);
-  }
+
 
   .card-body {
     
+
+    .card-title {
+      margin: -0.3rem 0rem 0.5rem 0rem;
+      color: var(--global-text-color);
+    }
+  
+    .card-subtitle {
+      font-size: 0.875rem;
+      color: #747373;
+      font-weight: 400;
+    }
+
+    .card-text {
+      padding-top: 1.0rem;
+      font-size: 1.0rem;
+      color: var(--global-text-color);
+    }
+
     padding: 0.25rem 1.25rem 1.25rem 1.25rem;
   }
+
+}
+
+
+.post-img {
+  width: 100%;
+  padding: 0.25rem 0rem 0rem 0rem;
 
 }
 
@@ -300,7 +323,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .post-description {
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
   font-size: 0.875rem;
 
   a {
