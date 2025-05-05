@@ -2,8 +2,19 @@
 layout: keynote
 inline: false
 name: Viviana Patti
-affiliation: Dipartimento di Informatica, Università di Torino
-title: Details coming soon!
-img: assets/img/AIUCD25_logo.png
+affiliation: Dipartimento di Informatica, Università di Torino, Turin, Italy
+title: Absit iniuria verbis
+img: /assets/img/viviana_patti.png
 website: https://www.unito.it/persone/vpatti
 ---
+
+<br/>
+### Bio
+
+Viviana Patti è professoressa associata presso il Dipartimento di Informatica dell'Università di Torino, coordinatrice del Dottorato in Informatica, e membro del comitato scientifico del Centro Interdipartimentale di Logica, Linguaggio e Cognizione dalla sua fondazione. In passato, è stata membro del Comitato di Garanzia dell'Università di Torino. Nel 2021 ha ottenuto l’abilitazione scientifica nazionale per la posizione di professore di prima fascia in Informatica. E’ vice-presidente del direttivo dell’Associazione Italiana di Linguistica Computazionale (AILC),  vice-presidente della laurea magistrale Language Technologies and Digital Humanities e vice-coordinatrice del master interateneo di secondo livello HumanAIze, progettato per integrare competenze umanistiche con quelle necessarie a partecipare ai processi di innovazione tecnologica legati all’impiego sempre più pervasivo dell’AI.
+
+I suoi principali interessi di ricerca si collocano nell’area dell’Intelligenza Artificiale fin dagli albori. In particolare riguardano le aree di Natural Language Processing, Computational Linguistics e Affective Computing, e includono sentiment analysis, riconoscimento delle emozioni e rilevamento dell’ironia, con un focus sui testi dei social media. Attualmente si occupa del monitoraggio dei discorsi di incitamento all’odio, con particolare attenzione all’odio contro gli immigrati, alla retorica populista, all’identificazione automatica della misoginia e degli stereotipi, e al supporto alla diffusione di gender-fair language, applicando tecniche di linguistica computazionale nell’ambito di progetti nazionali e internazionali, tra cui i progetti “Contro l’Odio”, “Be Positive!”, finanziato da Google e "Sterheotypes". Ha supervisionato e supervisiona un gruppo di dottorandi e post-doc su questi temi.
+
+Ha coordinato il progetto europeo pilota “EVALITA4ELG: risorse linguistiche di riferimento per l'italiano EVALITA, servizi NLP e strumenti per la piattaforma ELG” finanziato dal progetto European Language Grid H2020. Nell’ambito del progetto FAIR, coordina il progetto HARMONIA  (Harmony in Hybrid Decision-Making: Knowledge-enhanced Perspective-taking LLMs for Inclusive Decision-Making).  E’ da sempre attiva sul fronte della valutazione e del benchmarking per le tecnologie del linguaggio come co-organizzatrice di campagne di valutazione per la lingua italiana e altre lingue ed è fra gli organizzatori di CALAMITA, un’iniziativa AILC mirata specificatamente alla costruzione di un benchmark per la valutazione della capacità di LLMs in italiano. Ha coordinato diversi progetti di trasferimento tecnologico in collaborazione con aziende sul territorio, fra cui il progetto M.EMO.RAI che ha visto coinvolti i gruppi di ricerca del Dipartimento di Informatica dell’Università di Torino e della Direzione ICT della Rai nello sviluppo di una piattaforma che permette di monitorare e analizzare le emozioni, i conflitti, i dibattiti e le passioni dei telespettatori sui social media, utilizzando tecniche di intelligenza artificiale. Attualmente partecipa al progetto POPULUS (Multilingual Perspective-Aware NLU) in partnership con  Amazon Alexa, al coordinamento lato UniTO del progetto DEA (Digitale, Equità, Azioni) finanziato da Fondirigenti per lo “sviluppo di metodi e strumenti innovativi per sostenere le imprese verso una riduzione del Gender Gap nelle carriere STEM, e in una maggiore partecipazione e qualificazione manageriale delle donne in ambito STEM”, e infine al coordinamento del progetto FAIRLY per lo sviluppo di uno strumento di supporto alla scrittura inclusiva nelle comunicazioni basato su tecnologie del linguaggio, finanziato nell’ambito delle iniziative del bilancio partecipativo UniTO 2024.
+
+E' coautrice di +150 articoli pubblicati su riviste e atti di congressi internazionali e nazionali e presta servizio regolarmente come (senior) area chair nei comitati scientifici di conferenze di linguistica computazionale e intelligenza artificiale.
