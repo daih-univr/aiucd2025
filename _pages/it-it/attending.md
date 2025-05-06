@@ -8,6 +8,8 @@ dropdown: true
 children:
    - title: Registrazione
      permalink: /registration/
+   - title: Informazioni per chi Presenta
+     permalink: /informations-for-presenters/
    - title: Sede
      permalink: /venue/
    - title: Come Arrivare
