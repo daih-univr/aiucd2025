@@ -1,0 +1,25 @@
+sponsors:
+  patronage:
+      en: Sponsoring Bodies
+      it: Enti Patrocinanti
+      list:
+          - name: Dipartimenti di Lingue e Letterature Straniere
+            logo: logo-univr-dills.png
+            url: 'https://www.dlls.univr.it/'
+
+
+  platinum sponsors:
+      en: Platinum Sponsors
+      it: Sponsor Platino
+      list:
+          - name: Yeah Impresa Sociale
+            logo: Yeah_logo.png
+            url: 'https://yeahimpresasociale.it/'
+
+  bronze sponsors:
+      en: Bronze Sponsors
+      it: Sponsor Bronzo
+      list:
+          - name: Eviblu
+            logo: eviblu-logo.png
+            url: 'https://www.eviblu.it/'

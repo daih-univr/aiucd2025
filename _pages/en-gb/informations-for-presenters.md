@@ -13,7 +13,7 @@ nav: false
 Oral presentations are strictly **15 minutes** long, directly followed by **5 minutes** for Q&A.  
 Please respect these time limits to ensure fairness and smooth scheduling. Session chairs will strictly enforce timing.
 
-To ensure compatibility, presentations must be in **PDF format only** and uploaded to the shared folder (link will be provided a few days before the conference) **by 23:59 CEST on the day before your session**.
+To ensure compatibility, presentations must be in **PDF format only** and uploaded to the shared folder (link will be provided a few days before the conference) **by 23:59 CEST on the day before your session**. Please upload your file to the folder corresponding to your session (e.g., `DAY_X/Session_Y`) using the naming convention `hh_mm_surname.pdf` where `hh` and `mm` represent the scheduled time of your presentation in the program, and `surname` is the presenter's last name.
 
 
 ## Poster Presentations
@@ -25,7 +25,7 @@ To ensure a smooth and fair session, presenters are asked to:
 - Stick to the 2-minute time limit (no Q&A during this session)
 - Leave the stage promptly when signaled by the chairs
 
-Each presenter must prepare a **1-slide PDF** (landscape, ideally 16:10 ratio) that includes at least the poster title and author names, to be uploaded to the shared folder (link will be provided a few days before the conference) **by 23:59 CEST on June 9, 2025**.
+Each presenter must prepare a **1-slide PDF** (landscape, ideally 16:10 ratio) that includes at least the poster title and author names, to be uploaded to the shared folder (link will be provided a few days before the conference) **by 23:59 CEST on June 9, 2025**. Please upload your file to the folder corresponding to the Poster Madness session (`DAY_01_11.06.2025/Poster_Madness`) using the naming convention `hh_mm_surname.pdf` where `hh` and `mm` represent the scheduled time of your pitch in the program, and `surname` is the presenter's last name.
 
 **Poster Display**. Each presenter will be provided with:
 - a poster wall for displaying a **printed A0 poster in portrait format (841mm x 1189mm)**
