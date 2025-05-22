@@ -396,7 +396,7 @@ enable_publication_thumbnails: false
 # These are the defaults
 external_links:
   enabled: true
-  rel: external nofollow noopener
+  rel: external
   target: _blank
   exclude:
 
