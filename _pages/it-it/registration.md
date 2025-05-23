@@ -13,7 +13,7 @@ Per **le nuove socie e i nuovi soci**, le quote di iscrizione sono le seguenti:
 - **Studentesse e studenti, giovani studiose non strutturate e giovani studiosi non strutturati:** **65 euro** (40 euro per l'iscrizione al convegno + 25 euro per l'iscrizione ad AIUCD per l'anno 2025)  
 - **Partecipazione standard:** **130 euro** (70 euro per l'iscrizione al convegno + 60 euro per l'iscrizione ad AIUCD per l'anno 2025)
 
-Per completare l'iscrizione, visitare la [pagina di registrazione](https://www.aiucd.it/aiucd2025-iscrizione-a-associazione-e-convegno/).
+Per completare l'iscrizione, visitare la [pagina di registrazione](https://www.aiucd.it/aiucd2025-iscrizione-a-associazione-e-convegno/). **Deadline: 26 Maggio 2025**.
 
 **Attenzione:** Il pagamento può essere effettuato **solo tramite PayPal**.
 

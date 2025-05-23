@@ -13,7 +13,7 @@ For **new members**, the registration fees are as follows:
 - **Students and young scholars:** **65 euros** (40 euros for conference registration + 25 euros for AIUCD membership for 2025)  
 - **Regular participants:** **130 euros** (70 euros for conference registration + 60 euros for AIUCD membership for 2025)
 
-To complete your registration, please visit the [registration page](https://www.aiucd.it/aiucd2025-registration-to-both-association-and-conference/).
+To complete your registration, please visit the [registration page](https://www.aiucd.it/aiucd2025-registration-to-both-association-and-conference/). **Deadline: 26 May 2025**.
 
 **Please note:** Payment can only be made via **PayPal**.
 
