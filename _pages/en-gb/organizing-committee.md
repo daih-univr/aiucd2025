@@ -33,3 +33,8 @@ The 14<sup>th</sup> Annual Conference of the Association for Digital Humanities 
 ### Publicity Chair
 ---
 * [Sabrina Piccinin](https://www.dlls.univr.it/?ent=persona&id=20070&lang=en)
+
+### Local Organization
+---
+* Department of Foreign Languages and Literature administration office: Laura Scappini, Alice Bendinelli, Martina Cerpelloni, Sabrina  Ugolini
+* Students and interns: Martina Baú, Caterina Bovo, Martina Furlan, Chiara Giovanna Setti, Alessia Tettamanti, Greta Turrini

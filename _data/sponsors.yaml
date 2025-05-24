@@ -12,6 +12,9 @@ sponsors:
       en: Platinum Sponsors
       it: Sponsor Platino
       list:
+          - name: CLARIN-IT
+            logo: CLARIN-IT_Pictogram+Logotype_Landscape.png
+            url: 'https://www.clarin-it.it'
           - name: Yeah Impresa Sociale
             logo: Yeah_logo.png
             url: 'https://yeahimpresasociale.it/'

@@ -32,3 +32,8 @@ Il XIV convegno annuale dell'Associazione per l'Informatica Umanistica e la Cult
 ### Publicity Chair
 ---
 * [Sabrina Piccinin](https://www.dlls.univr.it/?ent=persona&id=20070&lang=it)
+
+### Organizzazione Locale
+---
+* Segreteria amministrativa del Dipartimento di Lingue e Letterature Straniere: Laura Scappini, Alice Bendinelli, Martina Cerpelloni, Sabrina Ugolini
+* Studentesse e tirocinanti: Martina Baú, Caterina Bovo, Martina Furlan, Chiara Giovanna Setti, Alessia Tettamanti, Greta Turrini
