@@ -77,6 +77,17 @@ table {
   }
 }
 
+.gallery-thumbnail {
+    max-width: 200px; /* Use max-width for responsiveness */
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+
 @media (max-width: 575px) {
   table {
     width: 100% !important;

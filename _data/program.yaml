@@ -248,8 +248,8 @@
         title: “Il mio sommario dunque è tutto qui?” Per Franco Fortini
     - time: "16:40 - 18:40"
       type: 
-        en: "Poster Session"
-        it: "Sessione Poster"
+        en: "Poster Session (with Aperitif)"
+        it: "Sessione Poster (con Aperitivo)"
       room: "Santa Marta (Provianda)"
 
 - day:
@@ -429,7 +429,12 @@
         en: "Coffee break"
         it: "Coffee break"
       room: "Santa Marta (Provianda)"
-    - time: "16:10 - 19:00"
+    - time: "16:10 - 16:20"
+      type:
+        en: "Buzzetti Prize 2024/25 Presentations"
+        it: "Presentazioni Premio Buzzetti 2024/25"
+      room: "Aula Magna"
+    - time: "16:20 - 19:00"
       type:
         en: "AIUCD Members General Assembly"
         it: "Assemblea Generale Soci AIUCD"

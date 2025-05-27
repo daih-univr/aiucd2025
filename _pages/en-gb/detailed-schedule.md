@@ -6,7 +6,6 @@ permalink: /detailed-schedule/
 nav: false
 ---
 
-
 <nav aria-label="Program Navigation">
   <ul>
   {% for day in site.data.program %}
@@ -15,7 +14,13 @@ nav: false
   </ul>
 </nav>
 
+<a href="/assets/img/programme-overview.png" data-lightbox="programme-overview.png" data-title="Programme Overview">
+  <img src="/assets/img/programme-overview.png" alt="Thumbnail of the Programme Overview" class="gallery-thumbnail">
+</a>
+
 {% for day in site.data.program %}
+  <br/>
+  <hr/>
   <h2 id="{{ day.day.en | slugify }}">{{ day.day.en }}</h2>  
 {% for session in day.sessions %}
   <h4>{{ session.time }}: {{ session.type.en }}</h4>

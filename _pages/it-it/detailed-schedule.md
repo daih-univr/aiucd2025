@@ -15,7 +15,13 @@ nav: false
   </ul>
 </nav>
 
+<a href="/assets/img/programme-overview.png" data-lightbox="programme-overview.png" data-title="Overview del Programma">
+  <img src="/assets/img/programme-overview.png" alt="Miniatura dell'Overview del Programma" class="gallery-thumbnail">
+</a>
+
 {% for day in site.data.program %}
+  <br/>
+  <hr/>
   <h2 id="{{ day.day.it | slugify }}">{{ day.day.it }}</h2>  
 {% for session in day.sessions %}
   <h4>{{ session.time }}: {{ session.type.it }}</h4>
