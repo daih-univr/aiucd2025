@@ -15,6 +15,8 @@ children:
     permalink: /venue/
   - title: Getting Here
     permalink: /getting-here/
+  - title: Social Dinner
+    permalink: /social-dinner/
   - title: Accommodation
     permalink: /accommodation/    
   - title: City of Verona

@@ -14,6 +14,8 @@ children:
      permalink: /venue/
    - title: Come Arrivare
      permalink: /getting-here/
+   - title: Cena Sociale
+     permalink: /social-dinner/     
    - title: Dove Alloggiare
      permalink: /accommodation/    
    - title: Città di Verona
