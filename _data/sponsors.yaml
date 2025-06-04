@@ -3,6 +3,12 @@ sponsors:
       en: Sponsoring Bodies
       it: Enti Patrocinanti
       list:
+          - name: Comune di Verona
+            logo: logo20comune1000.jpg
+            url: 'https://www.comune.verona.it/'
+          - name: Camera di Commercio di Verona
+            logo: Verona-marchio-colore.png
+            url: 'https://www.vr.camcom.it/'                  
           - name: Dipartimenti di Lingue e Letterature Straniere
             logo: logo-univr-dills.png
             url: 'https://www.dlls.univr.it/'
@@ -29,5 +35,9 @@ sponsors:
           - name: VT100 srl
             logo: Logo_vt100_rett.jpg
             url: 'https://www.vt100.srl/'
+
+thanks:
+    en: Thanks to <a href="https://cantinaveneta.com">Cantina Veneta Collis</a> for the kind gift.
+    it: Si ringrazia la <a href="https://cantinaveneta.com">Cantina Veneta Collis</a> per il gradito omaggio.
 
             
