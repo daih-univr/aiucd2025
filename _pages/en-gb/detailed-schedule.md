@@ -41,7 +41,7 @@ nav: false
 <strong>Session {{ psession.title }}</strong> - Room: {{ psession.room }} - <em>Chair: {{ psession.chair }}</em>
   <ul>
   {% for paper in psession.papers %}
-    <li>{{ paper.time }}: {{ paper.title }} ({{ paper.authors }}) </li>
+    <li>{{ paper.time }}: <a href="{{ paper.pdf }}">{{ paper.title }}</a> ({{ paper.authors }}) </li>
   {% endfor %}
   </ul>
 {% endfor %}
@@ -52,7 +52,7 @@ nav: false
   Room: {{ session.room }} - <em>Chair: {{ session.chair }}</em><br/>
   <ul>
   {% for paper in session.papers %}
-    <li>{{ paper.time }}: {{ paper.title }} ({{ paper.authors }}) </li>
+    <li>{{ paper.time }}: <a href="{{ paper.pdf }}">{{ paper.title }}</a> ({{ paper.authors }}) </li>
   {% endfor %}
   </ul>
 {% endif %}

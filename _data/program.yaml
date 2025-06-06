@@ -2,599 +2,708 @@
     en: June 11, 2025
     it: 11 Giugno 2025
   sessions:
-    - time: "08:00 - 09:00"
-      type:
-        en: "Registration"
-        it: "Registrazione"
-      room: "Aula Magna"
-    - time: "09:00 - 10:00"
-      type:
-        en: "Opening Ceremony"
-        it: "Cerimonia di Apertura"
-      room: "Aula Magna"
-    - time: "10:00 - 10:40"
-      type: 
-        en: "Coffee break"
-        it: "Coffee break"
-      room: "Santa Marta (Provianda)"
-    - time: "10:40 - 12:30"
-      type: 
-        en: "Oral Presentations"
-        it: "Presentazioni orali"      
-      psessions:
-        - title: 1.A
-          chair: TBD
-          room: Aula Magna
-          papers:
-          - title: Metodologie computazionali per l’organizzazione di archivi nati digitalmente
-            authors: Mariangela Giglio
-            time: '10:40'
-          - title: Digital Explorations of Historical Multilingual Practices. The Challenges
-              of the HyperAzpilcueta Project
-            authors: Manuela Bragagnolo, Marcus Pöckelmann, Polina Solonets, Andreas Wagner
-            time: '11:02'
-          - title: 'Risorgimento Digitale: Un progetto di hyperedizione per i testi risorgimentali.
-              Le Noterelle di Abba come caso di studio'
-            authors: Vincent Mobilia
-            time: '11:24'
-          - title: Verso l’edizione digitale del carteggio Canneti-Fiacchi
-            authors: Chiara Manca, Fiammetta Sabba, Bianca Sorbara, Silvia Tripodi
-            time: '11:46'
-          - title: L’edizione digitale del papiro P.Tor.Choach. 12 in collaborazione con il
-              Museo Egizio di Torino
-            authors: Chiara Senatore
-            time: '12:08'
-        - title: 1.B
-          chair: TBD
-          room: Aula SPA
-          papers:
-          - title: 'Accessibilità e inclusione per la documentazione del restauro: gli archivi
-              del Centro Conservazione e Restauro “La Venaria Reale”'
-            authors: Stefania De Blasi, Edi Guerzoni, Chiara Pipino
-            time: '10:40'
-          - title: 'Potential bias in AI: cultural representation and the marginalization
-              of African art'
-            authors: Francesca Bignotti
-            time: '11:02'
-          - title: Il Glossario delle Infrastrutture di Ricerca (GIR)
-            authors: Lucia Francalanci, Alessia Scognamiglio, Irene Falini, Pietro Restaneo,
-              Giulia Pedonese, Alessia Spadi
-            time: '11:24'
-          - title: Per un’analisi della rivista Umanistica Digitale in ottica DEI
-            authors: Rossana Morriello, Lucia Sardo
-            time: '11:46'
-          - title: Carpe bias, quam minimum credula queries
-            authors: Sabato Danzilli
-            time: '12:08'
-        - title: 1.C
-          chair: TBD
-          room: Aula SPB
-          papers:
-          - title: 'ATLAS: A data model for describing FAIR Digital Humanities research outcomes'
-            authors: Chiara Martignano, Giorgia Rubin, Sebastiano Giacomini, Alessia Bardi,
-              Marina Buzzoni, Marilena Daquino, Riccardo Del Gratta, Angelo Mario Del Grosso,
-              Franz Fischer, Roberto Rosselli Del Turco, Francesca Tomasi
-            time: '10:40'
-          - title: OWL Ontology on the European Integration Process between 1949 and 1979
-            authors: Lorenzo Galvagno
-            time: '11:02'
-          - title: 'IlluminAI: un sistema di navigazione interattivo per i manoscritti miniati
-              rinascimentali'
-            authors: Valeria Minisini, Giorgio Gosti, Bruno Fanini
-            time: '11:24'
-          - title: '/DH.arc Vocabularies: Making semantic artefacts more visible and accessible
-              using SKOS'
-            authors: Laurent Fintoni
-            time: '11:46'
-          - title: 'Modeling an Ontology for Heritage Science: Challenges and Key Strategies'
-            authors: Erica Scarpa, Riccardo Valente, Irene Rossi
-            time: '12:08'    
-    - time: "12:30 - 14:00"
-      type:
-        en: "Lunch"
-        it: "Pranzo"
-      room: "Santa Marta (Provianda)"
-    - time: "14:00 - 15:00"
-      type:
-        en: "AIUCD2025 Sponsors Event"
-        it: "Evento Sponsor AIUCD2025"
-      room: "Aula Magna"
-    - time: "15:00 - 16:20"
-      type:
-        en: "Poster Madness"
-        it: "Poster Madness"
-      room: "Aula Magna"
-      chair : "TBD"
+  - time: 08:00 - 09:00
+    type:
+      en: Registration
+      it: Registrazione
+    room: Aula Magna
+  - time: 09:00 - 10:00
+    type:
+      en: Opening Ceremony
+      it: Cerimonia di Apertura
+    room: Aula Magna
+  - time: 10:00 - 10:40
+    type:
+      en: Coffee break
+      it: Coffee break
+    room: Santa Marta (Provianda)
+  - time: 10:40 - 12:30
+    type:
+      en: Oral Presentations
+      it: Presentazioni orali
+    psessions:
+    - title: 1.A
+      chair: Emmanuela Carbé
+      room: Aula Magna
       papers:
-      - time: '15:00'
-        authors: Ioanna Tyrou, Katerina Florou
-        title: 'Learner Corpus of Creative Writing: An interdisciplinary challenge'
-      - time: '15:02'
-        authors: Michele Ciletti
-        title: Retrieval-Augmented Generation systems for enhanced access to digital archives
-      - time: '15:04'
-        authors: Luca Giovannini, Andreas Wagner
-        title: 'Prototyping an Atlas of Early Modern English Drama: An Experiment on DraCor
-          Data'
-      - time: '15:06'
-        authors: Marcello Ranieri
-        title: Cantautorato e Digital Humanities. Per una valorizzazione dell’opera di Fabrizio
-          De André, Lucio Dalla, Gianmaria Testa
-      - time: '15:08'
-        authors: Dario Baldini
-        title: Digitalizzazione di un fondo archivistico per la creazione di un centro di
-          documentazione digitale
-      - time: '15:10'
-        authors: Irene Caiazzo, Giovanna Maria Dimitri, Liana Tronci
-        title: 'IncluInstIT: Un nuovo corpus per lo studio di linguaggio inclusivo su Instagram'
-      - time: '15:12'
-        authors: Riccardo Consolini
-        title: 'SpaceLat: La geografia della letteratura latina tardoantica'
-      - time: '15:14'
-        authors: Dimitris Bilianos, Katerina Florou
-        title: 'The Influence of AI Tools on University Students'' Writing Style: A Stylometric
-          Analysis of Narrative Texts'
-      - time: '15:16'
-        authors: Alessia Scognamiglio, Roberto Evangelista, Manuela Sanna, Salvatore Prinzi,
-          Stefano Veneroni, Chiara Aiola, Luca de Santis
-        title: L’edizione critica digitale della 'Scienza nuova' di Giambattista Vico in
-          Scholarly Digital Edition
-      - time: '15:18'
-        authors: Eleonora Litta, Marco Passarotti, Paolo Brasolin, Valerio Basile, Cristina
-          Bosco, Andrea Di Fabio
-        title: LiITA, una Knowledge Base di risorse interconnesse per l’italiano
-      - time: '15:20'
-        authors: Serena Malatesta, Beatrice Mosca
-        title: 'Dai limina a LiMINA: un database per i marginalia alla Commedia'
-      - time: '15:22'
-        authors: Elena Radaelli
-        title: 'Dal palcoscenico al digitale: modelli di data visualization per la valorizzazione
-          dell’Archivio Teatro delle Marionette di Gianni e Cosetta Colla'
-      - time: '15:24'
-        authors: Giulia Pedonese, Francesca Frontini, Roberta Ottaviani, Federico Boschetti,
-          Alessia Spadi, Lucia Francalanci, Alessia Scognamiglio, Pietro Restaneo, Antonina
-          Chaban, Jana Striova, Laura Benassi
-        title: 'Dai Materiali Didattici alle Piattaforme FAIR: Costruire un’Infrastruttura
-          di Training in H2IOSC'
-      - time: '15:26'
-        authors: Giacomo Marchioro, Andrea Brugnoli, Francesca Carnazzi, Paolo Pellegrini,
-          Edoardo Ferrarini
-        title: Semplificare la lettura dei manoscritti utilizzando tecnologie WEB interattive
-          e interazioni “hover”
-      - time: '15:28'
-        authors: Caterina Ciccotti
-        title: 'Archivi digitali per la conservazione e valorizzazione del patrimonio culturale:
-          il caso del Santuario della Madonna di Carufo'
-      - time: '15:30'
-        authors: Mafalda Papini, Davide Albanesi, David Dattilo, Emiliano Giovannetti, Simone
-          Marchi
-        title: Experiments on the Use of LLMs for the Translation of the Babylonian Talmud
-      - time: '15:32'
-        authors: Tamás Kovács, Angelos Nikolaou, Johannes Laroche, Georg Vogeler
-        title: 'Eastern Law in Western Words: Analyzing Roman Legal Terminology in Medieval
-          Charters'
-      - time: '15:34'
-        authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini, Monica Monachini
-        title: 'Preserving and enhancing cultural heritage: the Digest project'
-      - time: '15:36'
-        authors: Chiara De Bastiani, Giulia Fabbris
-        title: 'Making Germanic Cultural Heritage accessible to students: a proposal for
-          a case study'
-      - time: '15:38'
-        authors: Martina Ludovisi
-        title: Il progetto ArPeR. Per un Archivio dei periodici romaneschi
-      - time: '15:40'
-        authors: Maria Chiara Provenzano, Eleonora Miccoli, Mario A. Bochicchio
-        title: 'Fantàsime: Interactive Drama per la valorizzazione del Patrimonio Culturale'
-      - time: '15:42'
-        authors: Giulia Fabbris, Samuela Simion, Fabio Soncin
-        title: 'Riscoperte poliane: edizione digitale di un manoscritto inedito de Il Milione'
-      - time: '15:44'
-        authors: Paola Peratello, Elisa Corrò
-        title: Analisi RTI delle iscrizioni runiche del Leone del Pireo (Arsenale di Venezia)
-      - time: '15:46'
-        authors: Kaosaier Wusiman, Simone Casazza
-        title: 'E.T and Visual Culture Ontology (ETVCO): Perspectives on Extraterrestrial
-          Influence in Visual Heritage'
-      - time: '15:48'
-        authors: Marta Caradonna, Nicola Giampietro, Roberta Bianca Luzietti, Monica Monachini,
-          Valeria Quochi, Emiliano Degl'Innocenti, Alessia Spadi, Alessandra Caravale, Antonio
-          D'Eredità, Paola Moscati, Giacomo Mancuso
-        title: Il ruolo delle Infrastrutture nella costruzione di un ambiente di ricerca
-          inclusivo. Un modello di buone pratiche
-      - time: '15:50'
-        authors: Carla Congiu, Angelo Mario Del Grosso, Marina Riccucci
-        title: 'Verso l’implementazione di un sistema di riconoscimento di allusioni al
-          lessico dantesco nelle testimonianze del Lager: il caso d’uso in Voci dall’Inferno'
-      - time: '15:52'
-        authors: David Bordon
-        title: 'Predicting Grammatical Cases in Slovenian Varieties in Italy: A Use Case
-          from the LORIS 1.1 Language Assistant'
-      - time: '15:54'
-        authors: Filippo Yahia Masri
-        title: Torino anni Ottanta. Digitalizzazione del patrimonio documentario e ricostruzione
-          virtuale delle mostre negli spazi pubblici e privati.
-      - time: '15:56'
-        authors: Chiara Barbero, Matteo Di Franco, Federica Lazzerini, Annamaria Persia
-        title: 'Il progetto RETI (REndering Texts and Images): metodologia e primi risultati'
-      - time: '15:58'
-        authors: Franziska Decker, Sandy Aoun, Giuseppe Consolo
-        title: 'From Documents to Data: Digital Technologies in the Study of Notarial Charters'
-      - time: '16:00'
-        authors: Stefania Tesser
-        title: 'Edizione digitale ed autorialità plurima: quali sfide?'
-      - time: '16:02'
-        authors: Pietro Sichera, Angelo Mario Del Grosso, Laura Mazzagufo, Daria Spampinato
-        title: 'ZoneRW: verso un''integrazione con Kraken ed eScriptorium per il riconoscimento
-          e la gestione avanzata delle regioni di interesse'
-      - time: '16:04'
-        authors: Dumitru Scutelnic, Laura Gazzani, Paolo Pellegrini, Claudia Daffara
-        title: 'Artificial intelligence vs human handwriting: annotating damaged manuscripts'
-      - time: '16:06'
-        authors: Cecilia Cattaneo, Claudia Roberta Combei, Chiara Zanchi
-        title: '“Glottolab: A Linguistic Adventure”: Lo sviluppo di un’attività gamificata
-          incentrata sulla linguistica'
-      - time: '16:08'
-        authors: Pietro Sichera, Christian D’Agata, Giuseppe Palazzolo
-        title: 'Concordanze e NLP: idee, metodi e regole per l’applicazione alla lingua
-          italiana'
-      - time: '16:10'
-        authors: Rita Gramellini, Valeria Zotti
-        title: 'Linguistica dei corpora e informatica umanistica per la valorizzazione plurilingue
-          del patrimonio culturale: implementazione del progetto UniVOCIttà'
-      - time: '16:12'
-        authors: Emmanuela Carbé, Mariangela Giglio, Pietro Orlandi, Jacopo Maria Romano,
-          Giulio Quaresima
-        title: “Il mio sommario dunque è tutto qui?” Per Franco Fortini
-    - time: "16:40 - 18:40"
-      type: 
-        en: "Poster Session (with Aperitif)"
-        it: "Sessione Poster (con Aperitivo)"
-      room: "Santa Marta (Provianda)"
-
+      - title: Metodologie computazionali per l’organizzazione di archivi nati digitalmente
+        authors: Mariangela Giglio
+        time: '10:40'
+        pdf: /assets/pdf/papers/50.pdf
+      - title: Digital Explorations of Historical Multilingual Practices. The Challenges
+          of the HyperAzpilcueta Project
+        authors: Manuela Bragagnolo, Marcus Pöckelmann, Polina Solonets, Andreas Wagner
+        time: '11:02'
+        pdf: /assets/pdf/papers/21.pdf
+      - title: 'Risorgimento Digitale: Un progetto di hyperedizione per i testi risorgimentali.
+          Le Noterelle di Abba come caso di studio'
+        authors: Vincent Mobilia
+        time: '11:24'
+        pdf: /assets/pdf/papers/23.pdf
+      - title: Verso l’edizione digitale del carteggio Canneti-Fiacchi
+        authors: Chiara Manca, Fiammetta Sabba, Bianca Sorbara, Silvia Tripodi
+        time: '11:46'
+        pdf: /assets/pdf/papers/28.pdf
+      - title: L’edizione digitale del papiro P.Tor.Choach. 12 in collaborazione con
+          il Museo Egizio di Torino
+        authors: Chiara Senatore
+        time: '12:08'
+        pdf: /assets/pdf/papers/38.pdf
+    - title: 1.B
+      chair: Federico Boschetti
+      room: Aula SPA
+      papers:
+      - title: 'Accessibilità e inclusione per la documentazione del restauro: gli
+          archivi del Centro Conservazione e Restauro “La Venaria Reale”'
+        authors: Stefania De Blasi, Edi Guerzoni, Chiara Pipino
+        time: '10:40'
+        pdf: /assets/pdf/papers/73.pdf
+      - title: 'Potential bias in AI: cultural representation and the marginalization
+          of African art'
+        authors: Francesca Bignotti
+        time: '11:02'
+        pdf: /assets/pdf/papers/7.pdf
+      - title: Il Glossario delle Infrastrutture di Ricerca (GIR)
+        authors: Lucia Francalanci, Alessia Scognamiglio, Irene Falini, Pietro Restaneo,
+          Giulia Pedonese, Alessia Spadi
+        time: '11:24'
+        pdf: /assets/pdf/papers/13.pdf
+      - title: Per un’analisi della rivista Umanistica Digitale in ottica DEI
+        authors: Rossana Morriello, Lucia Sardo
+        time: '11:46'
+        pdf: /assets/pdf/papers/31.pdf
+      - title: Carpe bias, quam minimum credula queries
+        authors: Sabato Danzilli
+        time: '12:08'
+        pdf: /assets/pdf/papers/37.pdf
+    - title: 1.C
+      chair: Christian D'Agata
+      room: Aula SPB
+      papers:
+      - title: 'ATLAS: A data model for describing FAIR Digital Humanities research
+          outcomes'
+        authors: Chiara Martignano, Giorgia Rubin, Sebastiano Giacomini, Alessia Bardi,
+          Marina Buzzoni, Marilena Daquino, Riccardo Del Gratta, Angelo Mario Del
+          Grosso, Franz Fischer, Roberto Rosselli Del Turco, Francesca Tomasi
+        time: '10:40'
+        pdf: /assets/pdf/papers/17.pdf
+      - title: OWL Ontology on the European Integration Process between 1949 and 1979
+        authors: Lorenzo Galvagno
+        time: '11:02'
+        pdf: /assets/pdf/papers/27.pdf
+      - title: 'IlluminAI: un sistema di navigazione interattivo per i manoscritti
+          miniati rinascimentali'
+        authors: Valeria Minisini, Giorgio Gosti, Bruno Fanini
+        time: '11:24'
+        pdf: /assets/pdf/papers/51.pdf
+      - title: '/DH.arc Vocabularies: Making semantic artefacts more visible and accessible
+          using SKOS'
+        authors: Laurent Fintoni
+        time: '11:46'
+        pdf: /assets/pdf/papers/66.pdf
+      - title: 'Modeling an Ontology for Heritage Science: Challenges and Key Strategies'
+        authors: Erica Scarpa, Riccardo Valente, Irene Rossi
+        time: '12:08'
+        pdf: /assets/pdf/papers/68.pdf
+  - time: 12:30 - 14:00
+    type:
+      en: Lunch
+      it: Pranzo
+    room: Santa Marta (Provianda)
+  - time: 14:00 - 15:00
+    type:
+      en: AIUCD2025 Sponsors Event
+      it: Evento Sponsor AIUCD2025
+    room: Aula Magna
+  - time: 15:00 - 16:20
+    type:
+      en: Poster Madness
+      it: Poster Madness
+    room: Aula Magna
+    chair: Stefano Bazzaco
+    papers:
+    - time: '15:00'
+      authors: Ioanna Tyrou, Katerina Florou
+      title: 'Learner Corpus of Creative Writing: An interdisciplinary challenge'
+      pdf: /assets/pdf/papers/6.pdf
+    - time: '15:02'
+      authors: Michele Ciletti
+      title: Retrieval-Augmented Generation systems for enhanced access to digital
+        archives
+      pdf: /assets/pdf/papers/15.pdf
+    - time: '15:04'
+      authors: Luca Giovannini, Andreas Wagner
+      title: 'Prototyping an Atlas of Early Modern English Drama: An Experiment on
+        DraCor Data'
+      pdf: /assets/pdf/papers/16.pdf
+    - time: '15:06'
+      authors: Marcello Ranieri
+      title: Cantautorato e Digital Humanities. Per una valorizzazione dell’opera
+        di Fabrizio De André, Lucio Dalla, Gianmaria Testa
+      pdf: /assets/pdf/papers/19.pdf
+    - time: '15:08'
+      authors: Dario Baldini
+      title: Digitalizzazione di un fondo archivistico per la creazione di un centro
+        di documentazione digitale
+      pdf: /assets/pdf/papers/22.pdf
+    - time: '15:10'
+      authors: Irene Caiazzo, Giovanna Maria Dimitri, Liana Tronci
+      title: 'IncluInstIT: Un nuovo corpus per lo studio di linguaggio inclusivo su
+        Instagram'
+      pdf: /assets/pdf/papers/24.pdf
+    - time: '15:12'
+      authors: Riccardo Consolini
+      title: 'SpaceLat: La geografia della letteratura latina tardoantica'
+      pdf: /assets/pdf/papers/25.pdf
+    - time: '15:14'
+      authors: Dimitris Bilianos, Katerina Florou
+      title: 'The Influence of AI Tools on University Students'' Writing Style: A
+        Stylometric Analysis of Narrative Texts'
+      pdf: /assets/pdf/papers/29.pdf
+    - time: '15:16'
+      authors: Alessia Scognamiglio, Roberto Evangelista, Manuela Sanna, Salvatore
+        Prinzi, Stefano Veneroni, Chiara Aiola, Luca de Santis
+      title: L’edizione critica digitale della 'Scienza nuova' di Giambattista Vico
+        in Scholarly Digital Edition
+      pdf: /assets/pdf/papers/32.pdf
+    - time: '15:18'
+      authors: Eleonora Litta, Marco Passarotti, Paolo Brasolin, Valerio Basile, Cristina
+        Bosco, Andrea Di Fabio
+      title: LiITA, una Knowledge Base di risorse interconnesse per l’italiano
+      pdf: /assets/pdf/papers/39.pdf
+    - time: '15:20'
+      authors: Serena Malatesta, Beatrice Mosca
+      title: 'Dai limina a LiMINA: un database per i marginalia alla Commedia'
+      pdf: /assets/pdf/papers/47.pdf
+    - time: '15:22'
+      authors: Elena Radaelli
+      title: 'Dal palcoscenico al digitale: modelli di data visualization per la valorizzazione
+        dell’Archivio Teatro delle Marionette di Gianni e Cosetta Colla'
+      pdf: /assets/pdf/papers/48.pdf
+    - time: '15:24'
+      authors: Giulia Pedonese, Francesca Frontini, Roberta Ottaviani, Federico Boschetti,
+        Alessia Spadi, Lucia Francalanci, Alessia Scognamiglio, Pietro Restaneo, Antonina
+        Chaban, Jana Striova, Laura Benassi
+      title: 'Dai Materiali Didattici alle Piattaforme FAIR: Costruire un’Infrastruttura
+        di Training in H2IOSC'
+      pdf: /assets/pdf/papers/49.pdf
+    - time: '15:26'
+      authors: Giacomo Marchioro, Andrea Brugnoli, Francesca Carnazzi, Paolo Pellegrini,
+        Edoardo Ferrarini
+      title: Semplificare la lettura dei manoscritti utilizzando tecnologie WEB interattive
+        e interazioni “hover”
+      pdf: /assets/pdf/papers/54.pdf
+    - time: '15:28'
+      authors: Caterina Ciccotti
+      title: 'Archivi digitali per la conservazione e valorizzazione del patrimonio
+        culturale: il caso del Santuario della Madonna di Carufo'
+      pdf: /assets/pdf/papers/56.pdf
+    - time: '15:30'
+      authors: Mafalda Papini, Davide Albanesi, David Dattilo, Emiliano Giovannetti,
+        Simone Marchi
+      title: Experiments on the Use of LLMs for the Translation of the Babylonian
+        Talmud
+      pdf: /assets/pdf/papers/58.pdf
+    - time: '15:32'
+      authors: Tamás Kovács, Angelos Nikolaou, Johannes Laroche, Georg Vogeler
+      title: 'Eastern Law in Western Words: Analyzing Roman Legal Terminology in Medieval
+        Charters'
+      pdf: /assets/pdf/papers/60.pdf
+    - time: '15:34'
+      authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini, Monica Monachini
+      title: 'Preserving and enhancing cultural heritage: the Digest project'
+      pdf: /assets/pdf/papers/61.pdf
+    - time: '15:36'
+      authors: Chiara De Bastiani, Giulia Fabbris
+      title: 'Making Germanic Cultural Heritage accessible to students: a proposal
+        for a case study'
+      pdf: /assets/pdf/papers/64.pdf
+    - time: '15:38'
+      authors: Martina Ludovisi
+      title: Il progetto ArPeR. Per un Archivio dei periodici romaneschi
+      pdf: /assets/pdf/papers/67.pdf
+    - time: '15:40'
+      authors: Maria Chiara Provenzano, Eleonora Miccoli, Mario A. Bochicchio
+      title: 'Fantàsime: Interactive Drama per la valorizzazione del Patrimonio Culturale'
+      pdf: /assets/pdf/papers/74.pdf
+    - time: '15:42'
+      authors: Giulia Fabbris, Samuela Simion, Fabio Soncin
+      title: 'Riscoperte poliane: edizione digitale di un manoscritto inedito de Il
+        Milione'
+      pdf: /assets/pdf/papers/84.pdf
+    - time: '15:44'
+      authors: Paola Peratello, Elisa Corrò
+      title: Analisi RTI delle iscrizioni runiche del Leone del Pireo (Arsenale di
+        Venezia)
+      pdf: /assets/pdf/papers/91.pdf
+    - time: '15:46'
+      authors: Kaosaier Wusiman, Simone Casazza
+      title: 'E.T and Visual Culture Ontology (ETVCO): Perspectives on Extraterrestrial
+        Influence in Visual Heritage'
+      pdf: /assets/pdf/papers/92.pdf
+    - time: '15:48'
+      authors: Marta Caradonna, Nicola Giampietro, Roberta Bianca Luzietti, Monica
+        Monachini, Valeria Quochi, Emiliano Degl'Innocenti, Alessia Spadi, Alessandra
+        Caravale, Antonio D'Eredità, Paola Moscati, Giacomo Mancuso
+      title: Il ruolo delle Infrastrutture nella costruzione di un ambiente di ricerca
+        inclusivo. Un modello di buone pratiche
+      pdf: /assets/pdf/papers/101.pdf
+    - time: '15:50'
+      authors: Carla Congiu, Angelo Mario Del Grosso, Marina Riccucci
+      title: 'Verso l’implementazione di un sistema di riconoscimento di allusioni
+        al lessico dantesco nelle testimonianze del Lager: il caso d’uso in Voci dall’Inferno'
+      pdf: /assets/pdf/papers/102.pdf
+    - time: '15:52'
+      authors: David Bordon
+      title: 'Predicting Grammatical Cases in Slovenian Varieties in Italy: A Use
+        Case from the LORIS 1.1 Language Assistant'
+      pdf: /assets/pdf/papers/104.pdf
+    - time: '15:54'
+      authors: Filippo Yahia Masri
+      title: Torino anni Ottanta. Digitalizzazione del patrimonio documentario e ricostruzione
+        virtuale delle mostre negli spazi pubblici e privati.
+      pdf: /assets/pdf/papers/106.pdf
+    - time: '15:56'
+      authors: Chiara Barbero, Matteo Di Franco, Federica Lazzerini, Annamaria Persia
+      title: 'Il progetto RETI (REndering Texts and Images): metodologia e primi risultati'
+      pdf: /assets/pdf/papers/107.pdf
+    - time: '15:58'
+      authors: Franziska Decker, Sandy Aoun, Giuseppe Consolo
+      title: 'From Documents to Data: Digital Technologies in the Study of Notarial
+        Charters'
+      pdf: /assets/pdf/papers/110.pdf
+    - time: '16:00'
+      authors: Stefania Tesser
+      title: 'Edizione digitale ed autorialità plurima: quali sfide?'
+      pdf: /assets/pdf/papers/111.pdf
+    - time: '16:02'
+      authors: Pietro Sichera, Angelo Mario Del Grosso, Laura Mazzagufo, Daria Spampinato
+      title: 'ZoneRW: verso un''integrazione con Kraken ed eScriptorium per il riconoscimento
+        e la gestione avanzata delle regioni di interesse'
+      pdf: /assets/pdf/papers/116.pdf
+    - time: '16:04'
+      authors: Dumitru Scutelnic, Laura Gazzani, Paolo Pellegrini, Claudia Daffara
+      title: 'Artificial intelligence vs human handwriting: annotating damaged manuscripts'
+      pdf: /assets/pdf/papers/118.pdf
+    - time: '16:06'
+      authors: Cecilia Cattaneo, Claudia Roberta Combei, Chiara Zanchi
+      title: '“Glottolab: A Linguistic Adventure”: Lo sviluppo di un’attività gamificata
+        incentrata sulla linguistica'
+      pdf: /assets/pdf/papers/122.pdf
+    - time: '16:08'
+      authors: Pietro Sichera, Christian D’Agata, Giuseppe Palazzolo
+      title: 'Concordanze e NLP: idee, metodi e regole per l’applicazione alla lingua
+        italiana'
+      pdf: /assets/pdf/papers/124.pdf
+    - time: '16:10'
+      authors: Rita Gramellini, Valeria Zotti
+      title: 'Linguistica dei corpora e informatica umanistica per la valorizzazione
+        plurilingue del patrimonio culturale: implementazione del progetto UniVOCIttà'
+      pdf: /assets/pdf/papers/129.pdf
+    - time: '16:12'
+      authors: Emmanuela Carbé, Mariangela Giglio, Pietro Orlandi, Jacopo Maria Romano,
+        Giulio Quaresima
+      title: “Il mio sommario dunque è tutto qui?” Per Franco Fortini
+      pdf: /assets/pdf/papers/130.pdf
+  - time: 16:40 - 18:40
+    type:
+      en: Poster Session (with Aperitif)
+      it: Sessione Poster (con Aperitivo)
+    room: Santa Marta (Provianda)
 - day:
     en: June 12, 2025
     it: 12 Giugno 2025
   sessions:
-    - time: "08:30 - 09:00"
-      type:
-        en: "Registration"
-        it: "Registrazione"
-      room: "Aula Magna"
-    - time: "09:00 - 10:00"
-      type:
-        en: "Keynote"
-        it: "Keynote"
-      title: "Measuring What Matters — or, The Temperature of Literary Texts"
-      speaker: "Evelyn Gius"
-      chair : "Simone Rebora"
-      room: "Aula Magna"
-    - time: "10:00 - 10:40"
-      type: 
-        en: "Coffee break"
-        it: "Coffee break"
-      room: "Santa Marta (Provianda)"
-    - time: "10:40 - 12:30"
-      type: 
-        en: "Oral Presentations"
-        it: "Presentazioni orali"  
-      psessions:
-      - title: 2.A
-        chair: TBD
-        room: Aula Magna
-        papers:
-        - title: L’edizione digitale dei primi 16 Taccuini di Paolo Orsi
-          authors: Giuseppina Monterosso, Andrea Bolioli, Elisa Bonacini, Gianmario Cattaneo,
-            Dario Gonella, Anna Maria Marras, Salvatore Spina, Paola Venuti
-          time: '10:40'
-        - title: 'Un modello integrato per il Roman d’Alexandre del codice Correr 1493:
-            annotazione linguistica e edizione critica digitale'
-          authors: Giacomo Costa, Simone Zenzaro
-          time: '11:02'
-        - title: 'A Case Study in Cultural Heritage: A System Linking Three Open Data Tools
-            – Digital Philology for Dummies (DPhD), Edition Visualization Technology (EVT),
-            and a Relational Database'
-          authors: Renato Caenaro, Chantal Pivetta
-          time: '11:24'
-        - title: Un'applicazione pratica per l’edizione digitale di testi agiografici e
-            calendariali
-          authors: Luca Avellis
-          time: '11:46'
-        - title: 'Embracing flexibility: new EVT features for critical editing, accessibility
-            and inclusivity'
-          authors: Roberto Rosselli Del Turco, Davide Cucurnia, Marina Buzzoni
-          time: '12:08'
-      - title: 2.B
-        chair: TBD
-        room: Aula SPA
-        papers:
-        - title: 'Exploring data-driven narratives in Digital Humanities web-based projects:
-            features and impact'
-          authors: Tommaso Battisti, Marilena Daquino
-          time: '10:40'
-        - title: Educational Impact of Storytelling and Data Visualisation in the Interpretation
-            of Humanities Data
-          authors: Giulia Renda, Marilena Daquino
-          time: '11:02'
-        - title: Evaluating bias within an epistemological framework for AI-based research
-            in the humanities
-          authors: Sarah Oberbichler, Cindarella Petz
-          time: '11:24'
-        - title: PrevNet. A FAIR and inclusive resource for the study of preverbs in historical
-            languages
-          authors: Andrea Farina, Barbara McGillivray
-          time: '11:46'
-        - title: 'Il patrimonio culturale digitale delle minoranze etniche: il progetto
-            DIGICHer tra le comunità Sámi, ladine ed ebraiche in Europa.'
-          authors: Matteo Cova, Eleonora De Longis
-          time: '12:08'
-      - title: 2.C
-        chair: TBD
-        room: Aula SPB
-        papers:
-        - title: 'Life and Death of DH Projects: A Preliminary Investigation of Their Lifecycles
-            in Italy'
-          authors: Erica Andreose, Giorgia Crosilla, Remo Grillo, Gianmarco Spinaci
-          time: '10:40'
-        - title: Research on Street Art in the Digital Space
-          authors: Aleksandra Tselikova
-          time: '11:02'
-        - title: Motion Visualisation of Dancers' Performances
-          authors: Giacomo Alliata, Loïc Serafin, Samy Mannane, Sarah Kenderdine
-          time: '11:24'
-        - title: 'Entità in relazione: policies, soluzioni tecnologiche e modelli lessicali
-            per un (eco)sistema informativo integrato'
-          authors: Herbert Natta, Michela Tardella, Eleonora Lattanzi, Gianluca Rossi, Roberta
-            Maggi
-          time: '11:46'
-        - title: 'The Staccioli Digital Archive: Using Knowledge Graphs to power digital
-            art history catalogues and art exhibitions'
-          authors: Klaus Werner, Pietro Liuzzo, Alessandro Adamou
-          time: '12:08'
-    - time: "12:30 - 14:00"
-      type:
-        en: "Lunch"
-        it: "Pranzo"
-      room: "Santa Marta (Provianda)"
-    - time: "14:00 - 15:30"
-      type: 
-        en: "Oral Presentations"
-        it: "Presentazioni orali"  
-      psessions:
-      - title: 3.A
-        chair: TBD
-        room: Aula Magna
-        papers:
-        - title: 'Fulfilling GEN-der AIms: do image-generating tools discriminate? An on-field
-            study'
-          authors: Francesco Meledandri
-          time: '14:00'
-        - title: From Bias Paralysis to Bias as a Category of Analysis. Introducing the
-            Bias-Aware Framework
-          authors: Mrinalini Luthra, Amber Zijlma
-          time: '14:22'
-        - title: 'Supporting Children with Linguistic Vulnerabilities Through Advanced,
-            Theory-Driven Technological Solutions: The TELMI Approach for Italian children
-            with DLD and Children with Italian as L2'
-          authors: Arianna Compostella, Giulia Valcamonica, Mattia Gianotti, Matteo Secco,
-            Silvia Silleresi, Fabrizio Arosio, Franca Garzotto, Maria Teresa Guasti
-          time: '14:44'
-        - title: DEA - An Innovative Technological Tool for Personalized Linguistic Training
-            for Italian Children with Developmental Dyslexia
-          authors: Marta Tagliani, Maria Vender, Giulia Valcamonica, Giovanni Caleffi, Franca
-            Garzotto, Denis Delfitto
-          time: '15:06'
-      - title: 3.B
-        chair: TBD
-        room: Aula SPA
-        papers:
-        - title: 'Modeling Intermediality and Interpretations in Contemporary Combinatory
-            Literature: Revealing Il Giuoco dell’Oca by Edoardo Sanguineti'
-          authors: Enrica Bruno, Maria Francesca Bocchi, Francesca Tomasi
-          time: '14:00'
-        - title: 'Describing Monastic Iconography Using Semantic Data: A Preliminary Investigation'
-          authors: Sofia Baroncini, Francesco Mele
-          time: '14:22'
-        - title: A Linguistic Knowledge Graph of Word Borrowings from Portuguese
-          authors: Anas Fahad Khan, Ana Salgado
-          time: '14:44'
-        - title: 'Automating XML-TEI Encoding of Unpublished Correspondence: A Comparative
-            Analysis of two LLM Approaches'
-          authors: Marco De Cristofaro, Daniel Zilio
-          time: '15:06'
-      - title: 3.C
-        chair: TBD
-        room: Aula SPB
-        papers:
-        - title: 'Usare i Large Language Model per l’analisi del testo narrativo: strategie
-            di prompt engineering per il riconoscimento del discorso indiretto libero nella
-            narrativa italiana 1830-1930'
-          authors: Aurora Argenzio, Fabio Ciotti, Anna Chiara Corradino
-          time: '14:00'
-        - title: Verso la svolta computazionale della critica dantesca
-          authors: Fara Autiero, Vittorio Celotto, Gennaro Ferrante, Chiara Fusco, Sandra
-            Gorla, Giuseppe Andrea Liberti, Mariangela Palomba, Serena Picarelli, Stefano
-            Angelo Rizzo, Silvia Tripodi
-          time: '14:22'
-        - title: Metodi di allineamento testuale bilingue per un’edizione genetica digitale
-            dei Mémoires di Carlo Goldoni
-          authors: Matteo Zibardi
-          time: '14:44'
-        - title: Modellazione, interoperabilità e riuso in DiScEPT
-          authors: Tiziana Mancinelli, Hansmichael Hohenegger, Federico Boschetti, Angelo
-            Mario Del Grosso, Eleonora De Longis, Gloria Mugelli
-          time: '15:06'
-    - time: "15:30 - 16:10"
-      type: 
-        en: "Coffee break"
-        it: "Coffee break"
-      room: "Santa Marta (Provianda)"
-    - time: "16:10 - 16:20"
-      type:
-        en: "Buzzetti Prize 2024/25 Presentations"
-        it: "Presentazioni Premio Buzzetti 2024/25"
-      room: "Aula Magna"
-    - time: "16:20 - 19:00"
-      type:
-        en: "AIUCD Members General Assembly"
-        it: "Assemblea Generale Soci AIUCD"
-      room: "Aula Magna"
-
-    - time: "20:00"
-      type:
-        en: "Social dinner"
-        it: "Cena sociale"
-
+  - time: 08:30 - 09:00
+    type:
+      en: Registration
+      it: Registrazione
+    room: Aula Magna
+  - time: 09:00 - 10:00
+    type:
+      en: Keynote
+      it: Keynote
+    title: Measuring What Matters — or, The Temperature of Literary Texts
+    speaker: Evelyn Gius
+    chair: Simone Rebora
+    room: Aula Magna
+  - time: 10:00 - 10:40
+    type:
+      en: Coffee break
+      it: Coffee break
+    room: Santa Marta (Provianda)
+  - time: 10:40 - 12:30
+    type:
+      en: Oral Presentations
+      it: Presentazioni orali
+    psessions:
+    - title: 2.A
+      chair: Maurizio Lana
+      room: Aula Magna
+      papers:
+      - title: L’edizione digitale dei primi 16 Taccuini di Paolo Orsi
+        authors: Giuseppina Monterosso, Andrea Bolioli, Elisa Bonacini, Gianmario
+          Cattaneo, Dario Gonella, Anna Maria Marras, Salvatore Spina, Paola Venuti
+        time: '10:40'
+        pdf: /assets/pdf/papers/117.pdf
+      - title: 'Un modello integrato per il Roman d’Alexandre del codice Correr 1493:
+          annotazione linguistica e edizione critica digitale'
+        authors: Giacomo Costa, Simone Zenzaro
+        time: '11:02'
+        pdf: /assets/pdf/papers/69.pdf
+      - title: 'A Case Study in Cultural Heritage: A System Linking Three Open Data
+          Tools – Digital Philology for Dummies (DPhD), Edition Visualization Technology
+          (EVT), and a Relational Database'
+        authors: Renato Caenaro, Chantal Pivetta
+        time: '11:24'
+        pdf: /assets/pdf/papers/97.pdf
+      - title: Un'applicazione pratica per l’edizione digitale di testi agiografici
+          e calendariali
+        authors: Luca Avellis
+        time: '11:46'
+        pdf: /assets/pdf/papers/77.pdf
+      - title: 'Embracing flexibility: new EVT features for critical editing, accessibility
+          and inclusivity'
+        authors: Roberto Rosselli Del Turco, Davide Cucurnia, Marina Buzzoni
+        time: '12:08'
+        pdf: /assets/pdf/papers/82.pdf
+    - title: 2.B
+      chair: Cristina Marras
+      room: Aula SPA
+      papers:
+      - title: 'Exploring data-driven narratives in Digital Humanities web-based projects:
+          features and impact'
+        authors: Tommaso Battisti, Marilena Daquino
+        time: '10:40'
+        pdf: /assets/pdf/papers/10.pdf
+      - title: Educational Impact of Storytelling and Data Visualisation in the Interpretation
+          of Humanities Data
+        authors: Giulia Renda, Marilena Daquino
+        time: '11:02'
+        pdf: /assets/pdf/papers/14.pdf
+      - title: Evaluating bias within an epistemological framework for AI-based research
+          in the humanities
+        authors: Sarah Oberbichler, Cindarella Petz
+        time: '11:24'
+        pdf: /assets/pdf/papers/53.pdf
+      - title: PrevNet. A FAIR and inclusive resource for the study of preverbs in
+          historical languages
+        authors: Andrea Farina, Barbara McGillivray
+        time: '11:46'
+        pdf: /assets/pdf/papers/5.pdf
+      - title: 'Il patrimonio culturale digitale delle minoranze etniche: il progetto
+          DIGICHer tra le comunità Sámi, ladine ed ebraiche in Europa.'
+        authors: Matteo Cova, Eleonora De Longis
+        time: '12:08'
+        pdf: /assets/pdf/papers/79.pdf
+    - title: 2.C
+      chair: Tiziana Mancinelli
+      room: Aula SPB
+      papers:
+      - title: 'Life and Death of DH Projects: A Preliminary Investigation of Their
+          Lifecycles in Italy'
+        authors: Erica Andreose, Giorgia Crosilla, Remo Grillo, Gianmarco Spinaci
+        time: '10:40'
+        pdf: /assets/pdf/papers/36.pdf
+      - title: Research on Street Art in the Digital Space
+        authors: Aleksandra Tselikova
+        time: '11:02'
+        pdf: /assets/pdf/papers/42.pdf
+      - title: Motion Visualisation of Dancers' Performances
+        authors: Giacomo Alliata, Loïc Serafin, Samy Mannane, Sarah Kenderdine
+        time: '11:24'
+        pdf: /assets/pdf/papers/43.pdf
+      - title: 'Entità in relazione: policies, soluzioni tecnologiche e modelli lessicali
+          per un (eco)sistema informativo integrato'
+        authors: Herbert Natta, Michela Tardella, Eleonora Lattanzi, Gianluca Rossi,
+          Roberta Maggi
+        time: '11:46'
+        pdf: /assets/pdf/papers/57.pdf
+      - title: 'The Staccioli Digital Archive: Using Knowledge Graphs to power digital
+          art history catalogues and art exhibitions'
+        authors: Klaus Werner, Pietro Liuzzo, Alessandro Adamou
+        time: '12:08'
+        pdf: /assets/pdf/papers/70.pdf
+  - time: 12:30 - 14:00
+    type:
+      en: Lunch
+      it: Pranzo
+    room: Santa Marta (Provianda)
+  - time: 14:00 - 15:30
+    type:
+      en: Oral Presentations
+      it: Presentazioni orali
+    psessions:
+    - title: 3.A
+      chair: Nicola Barbuti
+      room: Aula Magna
+      papers:
+      - title: 'Fulfilling GEN-der AIms: do image-generating tools discriminate? An
+          on-field study'
+        authors: Francesco Meledandri
+        time: '14:00'
+        pdf: /assets/pdf/papers/83.pdf
+      - title: From Bias Paralysis to Bias as a Category of Analysis. Introducing
+          the Bias-Aware Framework
+        authors: Mrinalini Luthra, Amber Zijlma
+        time: '14:22'
+        pdf: /assets/pdf/papers/85.pdf
+      - title: 'Supporting Children with Linguistic Vulnerabilities Through Advanced,
+          Theory-Driven Technological Solutions: The TELMI Approach for Italian children
+          with DLD and Children with Italian as L2'
+        authors: Arianna Compostella, Giulia Valcamonica, Mattia Gianotti, Matteo
+          Secco, Silvia Silleresi, Fabrizio Arosio, Franca Garzotto, Maria Teresa
+          Guasti
+        time: '14:44'
+        pdf: /assets/pdf/papers/89.pdf
+      - title: DEA - An Innovative Technological Tool for Personalized Linguistic
+          Training for Italian Children with Developmental Dyslexia
+        authors: Marta Tagliani, Maria Vender, Giulia Valcamonica, Giovanni Caleffi,
+          Franca Garzotto, Denis Delfitto
+        time: '15:06'
+        pdf: /assets/pdf/papers/93.pdf
+    - title: 3.B
+      chair: Paolo Monella
+      room: Aula SPA
+      papers:
+      - title: 'Modeling Intermediality and Interpretations in Contemporary Combinatory
+          Literature: Revealing Il Giuoco dell’Oca by Edoardo Sanguineti'
+        authors: Enrica Bruno, Maria Francesca Bocchi, Francesca Tomasi
+        time: '14:00'
+        pdf: /assets/pdf/papers/99.pdf
+      - title: 'Describing Monastic Iconography Using Semantic Data: A Preliminary
+          Investigation'
+        authors: Sofia Baroncini, Francesco Mele
+        time: '14:22'
+        pdf: /assets/pdf/papers/76.pdf
+      - title: A Linguistic Knowledge Graph of Word Borrowings from Portuguese
+        authors: Anas Fahad Khan, Ana Salgado
+        time: '14:44'
+        pdf: /assets/pdf/papers/80.pdf
+      - title: 'Automating XML-TEI Encoding of Unpublished Correspondence: A Comparative
+          Analysis of two LLM Approaches'
+        authors: Marco De Cristofaro, Daniel Zilio
+        time: '15:06'
+        pdf: /assets/pdf/papers/94.pdf
+    - title: 3.C
+      chair: Barbara McGillivray
+      room: Aula SPB
+      papers:
+      - title: 'Usare i Large Language Model per l’analisi del testo narrativo: strategie
+          di prompt engineering per il riconoscimento del discorso indiretto libero
+          nella narrativa italiana 1830-1930'
+        authors: Aurora Argenzio, Fabio Ciotti, Anna Chiara Corradino
+        time: '14:00'
+        pdf: /assets/pdf/papers/45.pdf
+      - title: Verso la svolta computazionale della critica dantesca
+        authors: Fara Autiero, Vittorio Celotto, Gennaro Ferrante, Chiara Fusco, Sandra
+          Gorla, Giuseppe Andrea Liberti, Mariangela Palomba, Serena Picarelli, Stefano
+          Angelo Rizzo, Silvia Tripodi
+        time: '14:22'
+        pdf: /assets/pdf/papers/112.pdf
+      - title: Metodi di allineamento testuale bilingue per un’edizione genetica digitale
+          dei Mémoires di Carlo Goldoni
+        authors: Matteo Zibardi
+        time: '14:44'
+        pdf: /assets/pdf/papers/59.pdf
+      - title: Modellazione, interoperabilità e riuso in DiScEPT
+        authors: Tiziana Mancinelli, Hansmichael Hohenegger, Federico Boschetti, Angelo
+          Mario Del Grosso, Eleonora De Longis, Gloria Mugelli
+        time: '15:06'
+        pdf: /assets/pdf/papers/121.pdf
+  - time: 15:30 - 16:10
+    type:
+      en: Coffee break
+      it: Coffee break
+    room: Santa Marta (Provianda)
+  - time: 16:10 - 16:20
+    type:
+      en: Buzzetti Prize 2024/25 Presentations
+      it: Presentazioni Premio Buzzetti 2024/25
+    room: Aula Magna
+  - time: 16:20 - 19:00
+    type:
+      en: AIUCD Members General Assembly
+      it: Assemblea Generale Soci AIUCD
+    room: Aula Magna
+  - time: '20:00'
+    type:
+      en: Social dinner
+      it: Cena sociale
 - day:
     en: June 13, 2025
     it: 13 Giugno 2025
   sessions:
-    - time: "08:30 - 09:00"
-      type:
-        en: "Registration"
-        it: "Registrazione"
-      room: "Aula Magna"
-    - time: "09:00 - 10:00"
-      type:
-        en: "Keynote"
-        it: "Keynote"
-      title: "Absit iniuria verbis"
-      speaker: "Viviana Patti"
-      chair : "Marco Rospocher"
-      room: "Aula Magna"
-    - time: "10:00 - 10:40"
-      type: 
-        en: "Coffee break"
-        it: "Coffee break"
-      room: "Santa Marta (Provianda)"
-    - time: "10:40 - 12:30"
-      type: 
-        en: "Oral Presentations"
-        it: "Presentazioni orali"  
-      psessions:
-      - title: 4.A
-        chair: TBD
-        room: Aula Magna
-        papers:
-        - title: '«Proximior perfectioni»: criticità e future prospettive del progetto Dante
-            Limina'
-          authors: Elisabetta Tonello
-          time: '10:40'
-        - title: 'TEI Encoding as a Unified Structure for Multilingual Digital Editions:
-            The LeggoManzoni Case Study'
-          authors: Mariia Levchenko, Beatrice Nava, Ersilia Russo
-          time: '11:02'
-        - title: Il corpus di prosa letteraria del progetto RIND (1830-1930). Assunti teorici
-            e vincoli pratici
-          authors: Stefano Ondelli, Pietro Mazzarisi
-          time: '11:24'
-        - title: 'Preserving Clarity: The MAGIC project approach to ancient manuscripts'
-          authors: Yahya Momtaz, Stefania Conte, Guido Russo
-          time: '11:46'
-        - title: 'Navigating the Digital Transition: Lessons from a Hybrid Critical Edition
-            Project'
-          authors: Elisa Bastianello, Reto Baumgartner
-          time: '12:08'
-      - title: 4.B
-        chair: TBD
-        room: Aula SPA
-        papers:
-        - title: Modelli e tecnologie integrate e innovative per una cittadinanza digitale
-            equa e sostenibile
-          authors: Cristina Marras, Vittoria Fabiani, Enrico Pasini, Lisa Reggiani, Pietro
-            Sichera, Paolo Ongaro, Martina Rossi
-          time: '10:40'
-        - title: 'Descrivere la catastrofe: documentare la diegesi per la catalogazione
-            di opere distopiche e post-apocalittiche'
-          authors: Luca Paolo Bruno, Valeria Stabile, Juan Scassa, Carmelo Caruso, Ludovica
-            Pannitto
-          time: '11:02'
-        - title: 'Linked Open Data and IIIF for connecting manuscripts images with their
-            transcriptions: a case study from the Veneranda Biblioteca Ambrosiana'
-          authors: Lorenza Talarico
-          time: '11:24'
-        - title: 'From Metadata to Storytelling: A Framework For 3D Cultural Heritage Visualization
-            on RDF Data'
-          authors: Sebastian Barzaghi, Simona Colitti, Arianna Moretti, Giulia Renda
-          time: '11:46'
-        - title: 'Between Text and Icon: Towards A Representational Model for Ekphrastic
-            Relations'
-          authors: Maria Francesca Bocchi, Carlo Teo Pedretti, Fabio Vitali
-          time: '12:08'
-      - title: 4.C
-        chair: TBD
-        room: Aula SPB
-        papers:
-        - title: 'Il corpus del Digesto: approcci e metodi computazionali per la creazione
-            di risorse linguistiche'
-          authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini
-          time: '10:40'
-        - title: Preliminary Results for the Explanation of Neural Network-based Handwriting
-            Identification in Historical Manuscripts
-          authors: Riccardo De Cesaris, Valerio Caravani, Arianna Pastorini, Serena Ammirati,
-            Paolo Merialdo
-          time: '11:02'
-        - title: Historical GIS e metodologie digitali per una storia della copertura boschiva
-          authors: Vincenzo Colaprice
-          time: '11:24'
-        - title: Phylo-1-preview. Un modello T5-Base per l’emendazione dei testi antichi
-          authors: Giuseppe Ferrara
-          time: '11:46'
-        - title: 'Reverse Engineering Critical Apparatuses for HTR Ground Truth Creation:
-            The Case of Kennicott’s Collation of the Hebrew Bible'
-          authors: Luigi Bambaci, Nachum Dershowitz, Daniel Stökl Ben Ezra
-          time: '12:08'     
-    - time: "12:30 - 14:00"
-      type:
-        en: "Lunch"
-        it: "Pranzo"
-      room: "Santa Marta (Provianda)"
-    - time: "14:00 - 15:30"
-      type: 
-        en: "Oral Presentations"
-        it: "Presentazioni orali"  
-      psessions:
-      - title: 5.A
-        chair: TBD
-        room: Aula Magna
-        papers:
-        - title: 'Human–LLM Synergy in Higher Education Publishing: Two ChatGPT Use Cases
-            within Editorial Pipelines'
-          authors: Gianluca Pavani
-          time: '14:00'
-        - title: 'Taming the Hydra: A Model for Textual Dynamics and Constellations of Goethe’s
-            Venetian Epigrams'
-          authors: Daniele Fusi, Matteo Zupancic, Franz Fischer, Claus Zittel
-          time: '14:22'
-        - title: Tecnologie AI per la didattica
-          authors: Gabriele Prosperi, Giulia Miglietta, Eleonora Miccoli, Mario Bochicchio
-          time: '14:44'
-        - title: 'Verso un futuro senza barriere: l’accessibilità dei documenti elettronici
-            nell ’European Accessibility Act'
-          authors: Stefano Allegrezza
-          time: '15:06'          
-      - title: 5.B
-        chair: TBD
-        room: Aula SPA
-        papers:
-        - title: 'MeMo: Una mappa letteraria digitale per la memoria del Mezzogiorno'
-          authors: Laura Giurdanella, Giuseppe Palazzolo, Bernardo De Luca, Fara Autiero,
-            Marco Gatto, Sabatino Peluso, Concetta Maria Pagliuca, Andrea Schembari
-          time: '14:00'
-        - title: 'The relationship between art and sound: An experiment on the engagement
-            of the cultural tourist'
-          authors: Sara Benetti, Nicola Orio
-          time: '14:22'
-        - title: La gestione del nuovo sapere digitale contemporaneo. Scenari, criticità,
-            sfide, prospettive
-          authors: Nicola Barbuti
-          time: '14:44'
-        - title: 'Soluzioni phygital e mediazione culturale: riflessioni digiteconomiche
-            nell’era dell’IA'
-          authors: Nicola Barbuti, Mauro De Bari
-          time: '15:06'
-    - time: "15:40 - 16:10"
-      type:
-        en: "Closing Ceremony"
-        it: "Cerimonia di Chiusura"
-      room: "Aula Magna"
+  - time: 08:30 - 09:00
+    type:
+      en: Registration
+      it: Registrazione
+    room: Aula Magna
+  - time: 09:00 - 10:00
+    type:
+      en: Keynote
+      it: Keynote
+    title: Absit iniuria verbis
+    speaker: Viviana Patti
+    chair: Marco Rospocher
+    room: Aula Magna
+  - time: 10:00 - 10:40
+    type:
+      en: Coffee break
+      it: Coffee break
+    room: Santa Marta (Provianda)
+  - time: 10:40 - 12:30
+    type:
+      en: Oral Presentations
+      it: Presentazioni orali
+    psessions:
+    - title: 4.A
+      chair: Fabio Ciotti
+      room: Aula Magna
+      papers:
+      - title: '«Proximior perfectioni»: criticità e future prospettive del progetto
+          Dante Limina'
+        authors: Elisabetta Tonello
+        time: '10:40'
+        pdf: /assets/pdf/papers/95.pdf
+      - title: 'TEI Encoding as a Unified Structure for Multilingual Digital Editions:
+          The LeggoManzoni Case Study'
+        authors: Mariia Levchenko, Beatrice Nava, Ersilia Russo
+        time: '11:02'
+        pdf: /assets/pdf/papers/98.pdf
+      - title: Il corpus di prosa letteraria del progetto RIND (1830-1930). Assunti
+          teorici e vincoli pratici
+        authors: Stefano Ondelli, Pietro Mazzarisi
+        time: '11:24'
+        pdf: /assets/pdf/papers/114.pdf
+      - title: 'Preserving Clarity: The MAGIC project approach to ancient manuscripts'
+        authors: Yahya Momtaz, Stefania Conte, Guido Russo
+        time: '11:46'
+        pdf: /assets/pdf/papers/18.pdf
+      - title: 'Navigating the Digital Transition: Lessons from a Hybrid Critical
+          Edition Project'
+        authors: Elisa Bastianello, Reto Baumgartner
+        time: '12:08'
+        pdf: /assets/pdf/papers/123.pdf
+    - title: 4.B
+      chair: Marina Buzzoni
+      room: Aula SPA
+      papers:
+      - title: Modelli e tecnologie integrate e innovative per una cittadinanza digitale
+          equa e sostenibile
+        authors: Cristina Marras, Vittoria Fabiani, Enrico Pasini, Lisa Reggiani,
+          Pietro Sichera, Paolo Ongaro, Martina Rossi
+        time: '10:40'
+        pdf: /assets/pdf/papers/96.pdf
+      - title: 'Descrivere la catastrofe: documentare la diegesi per la catalogazione
+          di opere distopiche e post-apocalittiche'
+        authors: Luca Paolo Bruno, Valeria Stabile, Juan Scassa, Carmelo Caruso, Ludovica
+          Pannitto
+        time: '11:02'
+        pdf: /assets/pdf/papers/72.pdf
+      - title: 'Linked Open Data and IIIF for connecting manuscripts images with their
+          transcriptions: a case study from the Veneranda Biblioteca Ambrosiana'
+        authors: Lorenza Talarico
+        time: '11:24'
+        pdf: /assets/pdf/papers/71.pdf
+      - title: 'From Metadata to Storytelling: A Framework For 3D Cultural Heritage
+          Visualization on RDF Data'
+        authors: Sebastian Barzaghi, Simona Colitti, Arianna Moretti, Giulia Renda
+        time: '11:46'
+        pdf: /assets/pdf/papers/105.pdf
+      - title: 'Between Text and Icon: Towards A Representational Model for Ekphrastic
+          Relations'
+        authors: Maria Francesca Bocchi, Carlo Teo Pedretti, Fabio Vitali
+        time: '12:08'
+        pdf: /assets/pdf/papers/115.pdf
+    - title: 4.C
+      chair: Francesca Frontini
+      room: Aula SPB
+      papers:
+      - title: 'Il corpus del Digesto: approcci e metodi computazionali per la creazione
+          di risorse linguistiche'
+        authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini
+        time: '10:40'
+        pdf: /assets/pdf/papers/62.pdf
+      - title: Preliminary Results for the Explanation of Neural Network-based Handwriting
+          Identification in Historical Manuscripts
+        authors: Riccardo De Cesaris, Valerio Caravani, Arianna Pastorini, Serena
+          Ammirati, Paolo Merialdo
+        time: '11:02'
+        pdf: /assets/pdf/papers/100.pdf
+      - title: Historical GIS e metodologie digitali per una storia della copertura
+          boschiva
+        authors: Vincenzo Colaprice
+        time: '11:24'
+        pdf: /assets/pdf/papers/46.pdf
+      - title: Phylo-1-preview. Un modello T5-Base per l’emendazione dei testi antichi
+        authors: Giuseppe Ferrara
+        time: '11:46'
+        pdf: /assets/pdf/papers/113.pdf
+      - title: 'Reverse Engineering Critical Apparatuses for HTR Ground Truth Creation:
+          The Case of Kennicott’s Collation of the Hebrew Bible'
+        authors: Luigi Bambaci, Nachum Dershowitz, Daniel Stökl Ben Ezra
+        time: '12:08'
+        pdf: /assets/pdf/papers/125.pdf
+  - time: 12:30 - 14:00
+    type:
+      en: Lunch
+      it: Pranzo
+    room: Santa Marta (Provianda)
+  - time: 14:00 - 15:30
+    type:
+      en: Oral Presentations
+      it: Presentazioni orali
+    psessions:
+    - title: 5.A
+      chair: Francesca Tomasi
+      room: Aula Magna
+      papers:
+      - title: 'Human–LLM Synergy in Higher Education Publishing: Two ChatGPT Use
+          Cases within Editorial Pipelines'
+        authors: Gianluca Pavani
+        time: '14:00'
+        pdf: /assets/pdf/papers/127.pdf
+      - title: 'Taming the Hydra: A Model for Textual Dynamics and Constellations
+          of Goethe’s Venetian Epigrams'
+        authors: Daniele Fusi, Matteo Zupancic, Franz Fischer, Claus Zittel
+        time: '14:22'
+        pdf: /assets/pdf/papers/131.pdf
+      - title: Tecnologie AI per la didattica
+        authors: Gabriele Prosperi, Giulia Miglietta, Eleonora Miccoli, Mario Bochicchio
+        time: '14:44'
+        pdf: /assets/pdf/papers/90.pdf
+      - title: 'Verso un futuro senza barriere: l’accessibilità dei documenti elettronici
+          nell ’European Accessibility Act'
+        authors: Stefano Allegrezza
+        time: '15:06'
+        pdf: /assets/pdf/papers/120.pdf
+    - title: 5.B
+      chair: Daria Spampinato
+      room: Aula SPA
+      papers:
+      - title: 'MeMo: Una mappa letteraria digitale per la memoria del Mezzogiorno'
+        authors: Laura Giurdanella, Giuseppe Palazzolo, Bernardo De Luca, Fara Autiero,
+          Marco Gatto, Sabatino Peluso, Concetta Maria Pagliuca, Andrea Schembari
+        time: '14:00'
+        pdf: /assets/pdf/papers/81.pdf
+      - title: 'The relationship between art and sound: An experiment on the engagement
+          of the cultural tourist'
+        authors: Sara Benetti, Nicola Orio
+        time: '14:22'
+        pdf: /assets/pdf/papers/88.pdf
+      - title: La gestione del nuovo sapere digitale contemporaneo. Scenari, criticità,
+          sfide, prospettive
+        authors: Nicola Barbuti
+        time: '14:44'
+        pdf: /assets/pdf/papers/126.pdf
+      - title: 'Soluzioni phygital e mediazione culturale: riflessioni digiteconomiche
+          nell’era dell’IA'
+        authors: Nicola Barbuti, Mauro De Bari
+        time: '15:06'
+        pdf: /assets/pdf/papers/75.pdf
+  - time: 15:40 - 16:10
+    type:
+      en: Closing Ceremony
+      it: Cerimonia di Chiusura
+    room: Aula Magna
