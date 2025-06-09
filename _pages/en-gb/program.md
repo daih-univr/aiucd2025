@@ -12,4 +12,6 @@ children:
     permalink: /keynotes/
   - title: Detailed Schedule
     permalink: /detailed-schedule/
+  - title: Proceedings
+    permalink: /proceedings/    
 ---

@@ -11,5 +11,7 @@ children:
   - title: Keynote Speakers
     permalink: /keynotes/
   - title: Programma dettagliato
-    permalink: /detailed-schedule/    
+    permalink: /detailed-schedule/
+  - title: Atti del convegno
+    permalink: /proceedings/            
 ---

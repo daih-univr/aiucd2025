@@ -26,7 +26,7 @@ nav: false
   <h4>{{ session.time }}: {{ session.type.en }}</h4>
 
 
-{% if session.type.en != "Keynote" and session.type.en != "Oral Presentations" and session.type.en != "Poster Madness" and session.type.en != "Social dinner"%}
+{% if session.type.en != "Keynote" and session.type.en != "Oral Presentations" and session.type.en != "Poster Madness" and session.type.en != "Social dinner" and session.type.en != "AIUCD2025 Sponsors Event" and session.type.en != "Opening Ceremony" %}
   Room: {{ session.room }}<br/>
 {% endif %}
 
@@ -53,6 +53,20 @@ nav: false
   <ul>
   {% for paper in session.papers %}
     <li>{{ paper.time }}: <a href="{{ paper.pdf }}">{{ paper.title }}</a> ({{ paper.authors }}) </li>
+  {% endfor %}
+  </ul>
+{% endif %}
+
+{% if session.type.en == "AIUCD2025 Sponsors Event" %}
+  Room: {{ session.room }} - <em>Chair: {{ session.chair }}</em><br/>
+  {{ session.speaker }} - {{ session.title }} 
+{% endif %}
+
+{% if session.type.en == "Opening Ceremony" %}
+  Room: {{ session.room }} - <em>Chair: {{ session.chair }}</em><br/>
+  <ul>
+  {% for greeting in session.greetings %}
+    <li>{{ greeting.en }}</li>
   {% endfor %}
   </ul>
 {% endif %}

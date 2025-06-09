@@ -2,7 +2,7 @@
     en: June 11, 2025
     it: 11 Giugno 2025
   sessions:
-  - time: 08:00 - 09:00
+  - time: 08:00 - 17:30
     type:
       en: Registration
       it: Registrazione
@@ -12,6 +12,16 @@
       en: Opening Ceremony
       it: Cerimonia di Apertura
     room: Aula Magna
+    chair: Simone Rebora
+    greetings:
+      - en: Marina Buzzoni, President of Italian Association for Digital Humanities and Digital Culture (AIUCD)
+        it: Marina Buzzoni, Presidente dell'Associazione Italiana per l'informatica Umanistica e la Cultura Digitale (AIUCD)
+      - en: Roberta Facchinetti, Director of the Department of Foreign Languages and Literatures of the University of Verona
+        it: Roberta Facchinetti, Direttrice del Dipartimento di Lingue e Letterature Straniere dell'Università di Verona
+      - en: Massimo Salgaro, Project Manager of the Excellence Project "Inclusive Humanities"
+        it: Massimo Salgaro, Project Manager del Progetto di Eccellenza "Inclusive Humanities"
+      - en: Simone Rebora and Marco Rospocher, General Chairs of AIUCD2025
+        it: Simone Rebora e Marco Rospocher, General Chairs di AIUCD2025
   - time: 10:00 - 10:40
     type:
       en: Coffee break
@@ -110,11 +120,14 @@
       en: Lunch
       it: Pranzo
     room: Santa Marta (Provianda)
-  - time: 14:00 - 15:00
+  - time: 14:30 - 15:00
     type:
       en: AIUCD2025 Sponsors Event
       it: Evento Sponsor AIUCD2025
     room: Aula Magna
+    chair: Marco Rospocher
+    title: 'La percezione dell’accessibilità digitale di siti web e app da parte delle persone con disabilità: un’indagine esplorativa'
+    speaker: Yeah! Impresa Sociale
   - time: 15:00 - 16:20
     type:
       en: Poster Madness
@@ -314,7 +327,7 @@
     en: June 12, 2025
     it: 12 Giugno 2025
   sessions:
-  - time: 08:30 - 09:00
+  - time: 08:30 - 17:30
     type:
       en: Registration
       it: Registrazione
@@ -534,7 +547,7 @@
     en: June 13, 2025
     it: 13 Giugno 2025
   sessions:
-  - time: 08:30 - 09:00
+  - time: 08:30 - 12:30
     type:
       en: Registration
       it: Registrazione
@@ -702,7 +715,15 @@
         authors: Nicola Barbuti, Mauro De Bari
         time: '15:06'
         pdf: /assets/pdf/papers/75.pdf
-  - time: 15:40 - 16:10
+  - time: 15:30 - 15:50
+    type:
+      en: AIUCD2025 Sponsors Event
+      it: Evento Sponsor AIUCD2025
+    room: Aula Magna
+    chair: Simone Rebora
+    title: 'TBD'
+    speaker: CLARIN-IT
+  - time: 15:50 - 16:10
     type:
       en: Closing Ceremony
       it: Cerimonia di Chiusura
