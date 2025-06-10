@@ -14,9 +14,12 @@ nav: false
   </ul>
 </nav>
 
-<a href="/assets/img/programme-overview.png" data-lightbox="programme-overview.png" data-title="Programme Overview">
-  <img src="/assets/img/programme-overview.png" alt="Thumbnail of the Programme Overview" class="gallery-thumbnail">
-</a>
+{% include figure.liquid loading="eager" path="/assets/img/programme-overview.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Programme Overview" max-width="300px" %}
+
+Map of the conference venue:
+
+{% include figure.liquid loading="eager" path="assets/img/marked-map.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="detailed information about the conference buildings and rooms" max-width="300px" %}
+
 
 {% for day in site.data.program %}
   <br/>

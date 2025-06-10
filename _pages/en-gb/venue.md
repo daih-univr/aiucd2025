@@ -24,9 +24,7 @@ The main building, known as the *Provianda*, has reached us with very few altera
 
 The conference sessions will be held in the *Silos di Ponente* building, in the following lecture rooms:  *Aula Magna*, *Aula SPA*, *Aula SPB*. Coffee breaks, lunches, and poster session will take place in the main building, *Provianda*.
 
-{% include figure.liquid loading="eager" path="assets/img/marked-map.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="indicazione dettagliata degli edifici e aule del convegno" width="70%" %}
-
-
+{% include figure.liquid loading="eager" path="assets/img/marked-map.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="detailed information about the conference buildings and rooms" width="70%" %}
 
 
 (*Image source: [UniVR](https://www.univr.it/documents/20142/0/attuale.jpg/32e4184c-74a6-68f2-4870-b8a49c55f060?t=1627035311073)*)

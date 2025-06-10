@@ -15,9 +15,12 @@ nav: false
   </ul>
 </nav>
 
-<a href="/assets/img/programme-overview.png" data-lightbox="programme-overview.png" data-title="Overview del Programma">
-  <img src="/assets/img/programme-overview.png" alt="Miniatura dell'Overview del Programma" class="gallery-thumbnail">
-</a>
+{% include figure.liquid loading="eager" path="/assets/img/programme-overview.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Overview del Programma" max-width="300px" %}
+
+Mappa della sede del convegno:
+
+{% include figure.liquid loading="eager" path="assets/img/marked-map.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="indicazione dettagliata degli edifici e aule del convegno" max-width="300px" %}
+
 
 {% for day in site.data.program %}
   <br/>
