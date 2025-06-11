@@ -136,131 +136,131 @@
     chair: Stefano Bazzaco + Marco Rospocher
     papers:
     - time: '15:00'
-      authors: Ioanna Tyrou, Katerina Florou
-      title: 'Learner Corpus of Creative Writing: An interdisciplinary challenge'
-      pdf: /assets/pdf/papers/6.pdf
-    - time: '15:02'
-      authors: Michele Ciletti
-      title: Retrieval-Augmented Generation systems for enhanced access to digital
-        archives
-      pdf: /assets/pdf/papers/15.pdf
-    - time: '15:04'
-      authors: Luca Giovannini, Andreas Wagner
-      title: 'Prototyping an Atlas of Early Modern English Drama: An Experiment on
-        DraCor Data'
-      pdf: /assets/pdf/papers/16.pdf
-    - time: '15:06'
-      authors: Marcello Ranieri
-      title: Cantautorato e Digital Humanities. Per una valorizzazione dell’opera
-        di Fabrizio De André, Lucio Dalla, Gianmaria Testa
-      pdf: /assets/pdf/papers/19.pdf
-    - time: '15:08'
-      authors: Dario Baldini
-      title: Digitalizzazione di un fondo archivistico per la creazione di un centro
-        di documentazione digitale
-      pdf: /assets/pdf/papers/22.pdf
-    - time: '15:10'
-      authors: Irene Caiazzo, Giovanna Maria Dimitri, Liana Tronci
-      title: 'IncluInstIT: Un nuovo corpus per lo studio di linguaggio inclusivo su
-        Instagram'
-      pdf: /assets/pdf/papers/24.pdf
-    - time: '15:12'
-      authors: Riccardo Consolini
-      title: 'SpaceLat: La geografia della letteratura latina tardoantica'
-      pdf: /assets/pdf/papers/25.pdf
-    - time: '15:14'
-      authors: Dimitris Bilianos, Katerina Florou
-      title: 'The Influence of AI Tools on University Students'' Writing Style: A
-        Stylometric Analysis of Narrative Texts'
-      pdf: /assets/pdf/papers/29.pdf
-    - time: '15:16'
-      authors: Alessia Scognamiglio, Roberto Evangelista, Manuela Sanna, Salvatore
-        Prinzi, Stefano Veneroni, Chiara Aiola, Luca de Santis
-      title: L’edizione critica digitale della 'Scienza nuova' di Giambattista Vico
-        in Scholarly Digital Edition
-      pdf: /assets/pdf/papers/32.pdf
-    - time: '15:18'
-      authors: Eleonora Litta, Marco Passarotti, Paolo Brasolin, Valerio Basile, Cristina
-        Bosco, Andrea Di Fabio
-      title: LiITA, una Knowledge Base di risorse interconnesse per l’italiano
-      pdf: /assets/pdf/papers/39.pdf
-    - time: '15:20'
-      authors: Serena Malatesta, Beatrice Mosca
-      title: 'Dai limina a LiMINA: un database per i marginalia alla Commedia'
-      pdf: /assets/pdf/papers/47.pdf
-    - time: '15:22'
-      authors: Elena Radaelli
-      title: 'Dal palcoscenico al digitale: modelli di data visualization per la valorizzazione
-        dell’Archivio Teatro delle Marionette di Gianni e Cosetta Colla'
-      pdf: /assets/pdf/papers/48.pdf
-    - time: '15:24'
-      authors: Giulia Pedonese, Francesca Frontini, Roberta Ottaviani, Federico Boschetti,
-        Alessia Spadi, Lucia Francalanci, Alessia Scognamiglio, Pietro Restaneo, Antonina
-        Chaban, Jana Striova, Laura Benassi
-      title: 'Dai Materiali Didattici alle Piattaforme FAIR: Costruire un’Infrastruttura
-        di Training in H2IOSC'
-      pdf: /assets/pdf/papers/49.pdf
-    - time: '15:26'
-      authors: Giacomo Marchioro, Andrea Brugnoli, Francesca Carnazzi, Paolo Pellegrini,
-        Edoardo Ferrarini
-      title: Semplificare la lettura dei manoscritti utilizzando tecnologie WEB interattive
-        e interazioni “hover”
-      pdf: /assets/pdf/papers/54.pdf
-    - time: '15:28'
-      authors: Caterina Ciccotti
-      title: 'Archivi digitali per la conservazione e valorizzazione del patrimonio
-        culturale: il caso del Santuario della Madonna di Carufo'
-      pdf: /assets/pdf/papers/56.pdf
-    - time: '15:30'
-      authors: Mafalda Papini, Davide Albanesi, David Dattilo, Emiliano Giovannetti,
-        Simone Marchi
-      title: Experiments on the Use of LLMs for the Translation of the Babylonian
-        Talmud
-      pdf: /assets/pdf/papers/58.pdf
-    - time: '15:32'
-      authors: Tamás Kovács, Angelos Nikolaou, Johannes Laroche, Georg Vogeler
-      title: 'Eastern Law in Western Words: Analyzing Roman Legal Terminology in Medieval
-        Charters'
-      pdf: /assets/pdf/papers/60.pdf
-    - time: '15:34'
-      authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini, Monica Monachini
-      title: 'Preserving and enhancing cultural heritage: the Digest project'
-      pdf: /assets/pdf/papers/61.pdf
-    - time: '15:36'
-      authors: Chiara De Bastiani, Giulia Fabbris
-      title: 'Making Germanic Cultural Heritage accessible to students: a proposal
-        for a case study'
-      pdf: /assets/pdf/papers/64.pdf
-    - time: '15:38'
-      authors: Martina Ludovisi
-      title: Il progetto ArPeR. Per un Archivio dei periodici romaneschi
-      pdf: /assets/pdf/papers/67.pdf
-    - time: '15:40'
-      authors: Maria Chiara Provenzano, Eleonora Miccoli, Mario A. Bochicchio
-      title: 'Fantàsime: Interactive Drama per la valorizzazione del Patrimonio Culturale'
-      pdf: /assets/pdf/papers/74.pdf
-    - time: '15:42'
-      authors: Giulia Fabbris, Samuela Simion, Fabio Soncin
-      title: 'Riscoperte poliane: edizione digitale di un manoscritto inedito de Il
-        Milione'
-      pdf: /assets/pdf/papers/84.pdf
-    - time: '15:44'
-      authors: Paola Peratello, Elisa Corrò
-      title: Analisi RTI delle iscrizioni runiche del Leone del Pireo (Arsenale di
-        Venezia)
-      pdf: /assets/pdf/papers/91.pdf
-    - time: '15:46'
-      authors: Kaosaier Wusiman, Simone Casazza
-      title: 'E.T and Visual Culture Ontology (ETVCO): Perspectives on Extraterrestrial
-        Influence in Visual Heritage'
-      pdf: /assets/pdf/papers/92.pdf
-    - time: '15:48'
       authors: Marta Caradonna, Nicola Giampietro, Roberta Bianca Luzietti, Monica
         Monachini, Valeria Quochi, Emiliano Degl'Innocenti, Alessia Spadi, Alessandra
         Caravale, Antonio D'Eredità, Paola Moscati, Giacomo Mancuso
       title: Il ruolo delle Infrastrutture nella costruzione di un ambiente di ricerca
         inclusivo. Un modello di buone pratiche
       pdf: /assets/pdf/papers/101.pdf
+    - time: '15:02'
+      authors: Ioanna Tyrou, Katerina Florou
+      title: 'Learner Corpus of Creative Writing: An interdisciplinary challenge'
+      pdf: /assets/pdf/papers/6.pdf
+    - time: '15:04'
+      authors: Michele Ciletti
+      title: Retrieval-Augmented Generation systems for enhanced access to digital
+        archives
+      pdf: /assets/pdf/papers/15.pdf
+    - time: '15:06'
+      authors: Luca Giovannini, Andreas Wagner
+      title: 'Prototyping an Atlas of Early Modern English Drama: An Experiment on
+        DraCor Data'
+      pdf: /assets/pdf/papers/16.pdf
+    - time: '15:08'
+      authors: Marcello Ranieri
+      title: Cantautorato e Digital Humanities. Per una valorizzazione dell’opera
+        di Fabrizio De André, Lucio Dalla, Gianmaria Testa
+      pdf: /assets/pdf/papers/19.pdf
+    - time: '15:10'
+      authors: Dario Baldini
+      title: Digitalizzazione di un fondo archivistico per la creazione di un centro
+        di documentazione digitale
+      pdf: /assets/pdf/papers/22.pdf
+    - time: '15:12'
+      authors: Irene Caiazzo, Giovanna Maria Dimitri, Liana Tronci
+      title: 'IncluInstIT: Un nuovo corpus per lo studio di linguaggio inclusivo su
+        Instagram'
+      pdf: /assets/pdf/papers/24.pdf
+    - time: '15:14'
+      authors: Riccardo Consolini
+      title: 'SpaceLat: La geografia della letteratura latina tardoantica'
+      pdf: /assets/pdf/papers/25.pdf
+    - time: '15:16'
+      authors: Dimitris Bilianos, Katerina Florou
+      title: 'The Influence of AI Tools on University Students'' Writing Style: A
+        Stylometric Analysis of Narrative Texts'
+      pdf: /assets/pdf/papers/29.pdf
+    - time: '15:18'
+      authors: Alessia Scognamiglio, Roberto Evangelista, Manuela Sanna, Salvatore
+        Prinzi, Stefano Veneroni, Chiara Aiola, Luca de Santis
+      title: L’edizione critica digitale della 'Scienza nuova' di Giambattista Vico
+        in Scholarly Digital Edition
+      pdf: /assets/pdf/papers/32.pdf
+    - time: '15:20'
+      authors: Eleonora Litta, Marco Passarotti, Paolo Brasolin, Valerio Basile, Cristina
+        Bosco, Andrea Di Fabio
+      title: LiITA, una Knowledge Base di risorse interconnesse per l’italiano
+      pdf: /assets/pdf/papers/39.pdf
+    - time: '15:22'
+      authors: Serena Malatesta, Beatrice Mosca
+      title: 'Dai limina a LiMINA: un database per i marginalia alla Commedia'
+      pdf: /assets/pdf/papers/47.pdf
+    - time: '15:24'
+      authors: Elena Radaelli
+      title: 'Dal palcoscenico al digitale: modelli di data visualization per la valorizzazione
+        dell’Archivio Teatro delle Marionette di Gianni e Cosetta Colla'
+      pdf: /assets/pdf/papers/48.pdf
+    - time: '15:26'
+      authors: Giulia Pedonese, Francesca Frontini, Roberta Ottaviani, Federico Boschetti,
+        Alessia Spadi, Lucia Francalanci, Alessia Scognamiglio, Pietro Restaneo, Antonina
+        Chaban, Jana Striova, Laura Benassi
+      title: 'Dai Materiali Didattici alle Piattaforme FAIR: Costruire un’Infrastruttura
+        di Training in H2IOSC'
+      pdf: /assets/pdf/papers/49.pdf
+    - time: '15:28'
+      authors: Giacomo Marchioro, Andrea Brugnoli, Francesca Carnazzi, Paolo Pellegrini,
+        Edoardo Ferrarini
+      title: Semplificare la lettura dei manoscritti utilizzando tecnologie WEB interattive
+        e interazioni “hover”
+      pdf: /assets/pdf/papers/54.pdf
+    - time: '15:30'
+      authors: Caterina Ciccotti
+      title: 'Archivi digitali per la conservazione e valorizzazione del patrimonio
+        culturale: il caso del Santuario della Madonna di Carufo'
+      pdf: /assets/pdf/papers/56.pdf
+    - time: '15:32'
+      authors: Mafalda Papini, Davide Albanesi, David Dattilo, Emiliano Giovannetti,
+        Simone Marchi
+      title: Experiments on the Use of LLMs for the Translation of the Babylonian
+        Talmud
+      pdf: /assets/pdf/papers/58.pdf
+    - time: '15:34'
+      authors: Tamás Kovács, Angelos Nikolaou, Johannes Laroche, Georg Vogeler
+      title: 'Eastern Law in Western Words: Analyzing Roman Legal Terminology in Medieval
+        Charters'
+      pdf: /assets/pdf/papers/60.pdf
+    - time: '15:36'
+      authors: Alessandra Cinini, Paola Marongiu, Eva Sassolini, Monica Monachini
+      title: 'Preserving and enhancing cultural heritage: the Digest project'
+      pdf: /assets/pdf/papers/61.pdf
+    - time: '15:38'
+      authors: Chiara De Bastiani, Giulia Fabbris
+      title: 'Making Germanic Cultural Heritage accessible to students: a proposal
+        for a case study'
+      pdf: /assets/pdf/papers/64.pdf
+    - time: '15:40'
+      authors: Martina Ludovisi
+      title: Il progetto ArPeR. Per un Archivio dei periodici romaneschi
+      pdf: /assets/pdf/papers/67.pdf
+    - time: '15:42'
+      authors: Maria Chiara Provenzano, Eleonora Miccoli, Mario A. Bochicchio
+      title: 'Fantàsime: Interactive Drama per la valorizzazione del Patrimonio Culturale'
+      pdf: /assets/pdf/papers/74.pdf
+    - time: '15:44'
+      authors: Giulia Fabbris, Samuela Simion, Fabio Soncin
+      title: 'Riscoperte poliane: edizione digitale di un manoscritto inedito de Il
+        Milione'
+      pdf: /assets/pdf/papers/84.pdf
+    - time: '15:46'
+      authors: Paola Peratello, Elisa Corrò
+      title: Analisi RTI delle iscrizioni runiche del Leone del Pireo (Arsenale di
+        Venezia)
+      pdf: /assets/pdf/papers/91.pdf
+    - time: '15:48'
+      authors: Kaosaier Wusiman, Simone Casazza
+      title: 'E.T and Visual Culture Ontology (ETVCO): Perspectives on Extraterrestrial
+        Influence in Visual Heritage'
+      pdf: /assets/pdf/papers/92.pdf
     - time: '15:50'
       authors: Carla Congiu, Angelo Mario Del Grosso, Marina Riccucci
       title: 'Verso l’implementazione di un sistema di riconoscimento di allusioni
