@@ -10,7 +10,7 @@ nav: false
   <img src="/assets/img/proceedings-front.png" alt="Copertina dei proceedings AIUCD 2025" class="proceedings-thumbnail">
 </a>
 
-Gli atti di AIUCD 2025 sono disponibili su [Umanistica Digitale](https://doi.org/10.6092/unibo/amsacta/8380):
+Gli atti di AIUCD 2025 sono disponibili su [Umanistica Digitale](https://umanisticadigitale.unibo.it/pages/boa):
 
 > A cura di: **Rebora, Simone ; Rospocher, Marco ; Bazzaco, Stefano** (2025) *Diversità, Equità e Inclusione: Sfide e Opportunità per l’Informatica Umanistica nell’Era dell’Intelligenza Artificiale*, Proceedings del XIV Convegno Annuale AIUCD2025. Verona: AIUCD, p. 663. ISBN 978-88-942535-9-7. DOI [10.6092/unibo/amsacta/8380](https://doi.org/10.6092/unibo/amsacta/8380). In: Quaderni di Umanistica Digitale
 
